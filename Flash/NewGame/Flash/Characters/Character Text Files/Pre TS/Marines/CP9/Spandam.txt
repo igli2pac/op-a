@@ -1,0 +1,26 @@
+Spandam
+
+A: Ivory Dart
+1 weapon 1 devil fruit, 1 cooldown
+Spandom uses his elephant sword Funkfreed to pin an enemy, one enemy will
+be stunned for 1 turn and will be dealt 35 damage. If this skills is 
+used on the same enemy again it will deal 20 extra damage.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+B: Pummel
+1 physical, 1 cooldown
+Spandam attacks a wounded, one enemy that has less than 50 health or that 
+is stunned will be dealt 10 damage and be stunned for 2 turn.
+Physical/Melee/Instant
+
+C: Devil Fruit Charity
+1 random, 1 cooldown
+Spandam will gain 1 devil fruit energy.
+Strategic/Instant
+
+D: Overconfidence
+1 random, 3 cooldown
+Spandam will become invulnerable for 1 turn if an ally is still alive.
+If no allies are alive he will gain 20 damage reduction for 1 turn 
+instead.
+Strategic/Instant

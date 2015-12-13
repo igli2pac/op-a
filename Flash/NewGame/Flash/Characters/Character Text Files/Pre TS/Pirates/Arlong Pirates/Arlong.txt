@@ -1,0 +1,33 @@
+Arlong
+
+A: Shark on Darts
+1 physical 1 random, 3 cooldown
+Arlong charges at an enemy like a torpedo, for 3 turns Arlong will
+deal 20 damage to one enemy and ignore all stuns and affliction 
+damage dealt to him. Arlong cannot use any skills except 
+"Unbreakable" during this time.
+Physical/Melee/Action
+
+B: Kiribachi
+1 weapon 1 random, 3 cooldown
+Arlong draws his jagged sword, for 3 turns one enemy will be dealt
+20 damage each turn and and any enemy that uses a new melee or 
+physical skill on Arlong will be dealt 10 damage, also Arlong will 
+gain 10 damage reduction against ranged skills. Arlong cannot 
+use any other skills except "Unbreakable" during this time.
+Weapon/Melee/Action
+
+C: Tooth Gum
+1 haki 1 random, 3 cooldown
+Arlong takes out two sets of teeth and uses them as weapons, for
+3 turn an enemy will be dealt 20 piercing damage that ignores
+destructable defense, this damage cannot be reduced by debuffs on
+Arlong, and Arlong will be unable to use any other skills except 
+"Unbreakable" during this time.
+Weapon/Melee/Action
+
+D: Unbreakable
+1 random, 1 cooldown
+Arlong fixes himself up healing 25 health. Anytime Arlong uses this
+skill it will heal 5 less next time.
+Strategic/Instant

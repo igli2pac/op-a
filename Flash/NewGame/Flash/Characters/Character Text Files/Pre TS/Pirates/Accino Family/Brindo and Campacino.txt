@@ -1,0 +1,27 @@
+Brindo and Campacino
+
+A: Jiryoko Han Pass
+3 random, no cooldown
+Brindo and Campacino moves at an ever increasing pace, 
+making their attacks flow with ease. Brindo and Campacino
+deals 25 damage to an opponent and then reduces the cost
+of their moves by 1 random for 4 turns.
+Physical/Melee/Instant/Unique
+
+B: Ai Karaido Kick
+1 physical 3 random, 1 cooldown
+Either Brindo or Campacino launches at an opponent dealing
+30 damage, stunning that opponent and removing 1 random energy.
+Physical/Melee/Instant
+
+C: Double Lariat
+2 Physical 3 random, 2 cooldown
+Brindo and Campacino rushes in to crush an enemies head
+dealing 50 piercing damage and stunning that enemy for 1 turn.
+Physical/Melee/Instant
+
+D: Han Pass Propulsion
+2 random, 3 cooldown
+This skill makes Brindo and Campacino invulnerable for 1
+turn.
+Strategic/Instant 

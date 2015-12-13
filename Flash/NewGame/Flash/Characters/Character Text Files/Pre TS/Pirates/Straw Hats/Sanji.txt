@@ -1,0 +1,26 @@
+Sanji
+
+A: Cotelette
+1 Physical, 1 cooldown
+Sanji deals 10 damage and stuns an enemy them for 1 turn.
+The next turn "Selle" will deal an additional 10 damage.
+Physical/Melee/Instant
+
+B: Selle
+1 Physical, no cooldown
+Sanji spins on the ground dealing 20 damage to an enemy and reducing damage 
+done by them by 10 for 1 turn, the next turn "Cotellete" will deal an 
+additional 10 damage.
+Physical/Melee/Instant
+
+C: Devil Jambe
+1 willpower, 3 cooldown
+For 3 turns, Sanji's moves will apply an affliction dealing 5 affliction
+damage each turn for 3 turns. Also, Sanji gains 50% damage reduction during 
+this time.
+Strategic/Instant
+
+D: Leg Block
+1 random, 4 cooldown
+This skill makes Sanji invulnerable for 1 turn.
+Strategic/Instant

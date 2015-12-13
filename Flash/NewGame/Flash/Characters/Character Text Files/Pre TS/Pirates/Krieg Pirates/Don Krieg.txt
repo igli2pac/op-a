@@ -1,0 +1,44 @@
+Don Krieg
+
+A: Dangan
+1 random, 1 cooldown
+Krieg shoots an enemy dealing 5 damage each turn for 4 turns.
+This skill stacks.
+Weapon/Ranged/Action
+
+B: Deisenso
+1 weapon 2 random, 4 cooldown
+Krieg wields his explosive spear. Whenever Krieg is damaged, 
+Krieg will do a move depending on how much damage Krieg was 
+dealt. This skill lasts 5 turns.
+
+5-15: Explosion!: Krieg deals 10 damage to the character who
+damaged him.
+(Weapon/Melee/Instant)
+
+20-30: Kaen Hosha: Krieg responds with his flamethrower, dealing
+10 affliction damage to that character every turn for 3 turns.
+(Weapon/Ranged/Action*Affliction)
+
+35 or more: Tetsu no Ami: Krieg traps the enemy in an iron net,
+stunning that character for 2 turns and dealing 10 damage to them.
+(Weapon/Ranged/Instant)
+
+This skill will apply even if Krieg is stunned or the enemy is 
+invulnerable.
+Strategic/Instant
+
+C: Modoku Gas Dan MH5
+2 weapon 1 random, no cooldown
+Krieg shoots a deadly gas on the enemy team afflicting them with
+an affliction dealing 10 damage each turn for 4 turns.
+During this time Dangan will deal 5 extra damage against enemies
+affected by this skill.
+This skill can only be used once.
+Weapon/Ranged/Instant*Affliction
+
+D: Wootz-Ko no Yoroi
+no cost, no cooldown
+Don Kriegs golden armor is nearly indestructable, Don Krieg gains
+20 DD that stacks, this skill can only be used 3 times.
+Strategic/Instant

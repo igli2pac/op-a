@@ -1,0 +1,27 @@
+Borsalino - Kizaru
+
+A: Yata No Kagami
+1 Devil fruit, 5 cooldown 
+Kizaru's devil fruit allows him to move at the speed of light,
+Kizaru becomes invulnerable for 2 turns, and during this time
+Lightspeed Kick will have its cooldown decreased by 1.
+Strategic/Instant/Unique*Devil fruit
+
+B: Lightspeed Kick
+1 devil fruit 1 random, 1 cooldown
+Kizaru kicks an enemy at the speed of light, dealing 30 damage 
+and stunning them for 1 turn.
+Physical/Melee/Instant/Unique*Devil fruit
+
+C: Yasakani no Magatama
+1 devil fruit, 5 cooldown
+Kizaru shoots a wide range of projectiles at his enemies
+dealing 5 damage each turn for 5 turns to every opponent.
+Devil fruit/Ranged/Action/Unique*Devil fruit
+
+D: Body of Light
+1 random, 3 cooldown
+Kizaru's body of light is near invulnerable, for 1 turns
+Kizaru will be invulnerable to weapon and physical attacks, while 
+reducing other all damage dealt to him by 5.
+Strategic/Instant/Unique*Devil fruit

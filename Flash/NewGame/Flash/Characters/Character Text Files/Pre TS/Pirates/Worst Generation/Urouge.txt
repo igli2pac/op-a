@@ -1,0 +1,30 @@
+Urouge
+
+A: Karma
+1 devil fruit, 6 cooldown
+Urouge uses his devil fruit to grow in size everytime he takes
+damage, for 5 turns, whenever Urouge is dealt damage, the damage
+of Inga Zarashi and Pillar of Retribution will be increased by
+that amount for as long as this skill is active. During this time, 
+Urouge cannot receive more than 40 damage in total each turn 
+(Including affliction damage).
+Strategic/Instant/Unique*Devil fruit
+
+B: Inga Zarashi
+1 physical, no cooldown
+Urouge delivers karmatic justice, this skill will deal 5 damage
+to one enemy each turn for 2 turns.
+Physical/Melee/Action
+
+C: Pillar of Retribution
+1 weapon 1 random, 1 cooldown
+Urouge smashes his enemies with his giant pillar. All enemies will
+be dealt 5 damage and Urouge will ignore stuns for 1 turn.
+Weapon/Melee/Instant
+
+D: Massive Size 
+1 random, 3 cooldown
+Urouge's health cannot go below 5 for 1 turn. Damage against him
+will still count towards "Karma".
+This skill is invisible.
+Strategic/Instant/Unique*Devil fruit

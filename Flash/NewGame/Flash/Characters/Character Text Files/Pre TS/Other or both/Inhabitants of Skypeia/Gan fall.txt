@@ -1,0 +1,34 @@
+Gan fall
+
+A: God's Lance
+1 haki, no cooldown
+Gan Fall charges an enemy with his lance dealing 20 damage. If that enemy
+was invulnerable this skill will deal an additional 10 damage. This
+skill ignores invulnerability.
+Weapon/Melee/Instant
+
+B1: Impact Dial-Absorb
+1 weapon, 3 cooldown
+Gan Fall prepares his Impact Dial, for 1 turn Gan Fall will ignore all 
+damage dealt to him, then this skill will become "Impact Dial-Release". 
+This skill is invisible.
+Strategic/Instant
+
+B2: Impact Dial-Release
+1 weapon, no cooldown
+Gan Fall releases the charge he stored in his impact dial, this skill
+deals damage equal to the amount of damage ignored by "Impact Dial-
+Release". This skill ignores invulnerability gained from Devil Fruit
+abilities. After use this skill becomes "Impact Dial-Absorb".
+Weapon/Melee/Instant
+
+C: Pumpkin Juice
+2 random, 3 cooldown
+This skill grants 1 random energy to Gan Fall and all his allies.
+And Gan Fall will recover 10 health.
+Strategic/Instant
+
+D: Pegasus Flight
+1 random, 4 cooldown
+This skill makes Gan Fall invulnerable for 1 turn.
+Strategic/Instant

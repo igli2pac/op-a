@@ -1,0 +1,26 @@
+Vivi
+
+A: Peacock Slasher
+1 weapon, no cooldown
+Vivi uses her peacock slashers to deal 15 damage to one opponent each 
+turn for 2 turns.
+Weapon/Melee/Action
+
+B: Peacock String Slasher
+1 weapon 1 random, 3 cooldown
+Vivi tries to chop off an enemies head with her string slasher, dealing
+10 damage each turn for 2 turns. That enemy will lose 1 random energy
+each turn.
+Weapon/Ranged/Action
+
+C: Hypnosis
+1 haki 1 random, 3 cooldown
+Vivi uses a special perfume to paralyze an enemy, that enemy will be 
+unable to target Vivi or her allies for 2 turns. That enemy will receive
+10 extra damage from weapon skills during this time.
+Strategic/Action
+
+D: Carou Dash
+1 random, 4 cooldown
+This skill makes Vivi invulnerable for 1 turn.
+Strategic/Instant

@@ -1,0 +1,25 @@
+Tashigi
+
+A: Cut of Justice
+1 random, no cooldown
+Tashigi attacks one enemy dealing 15 damage and if that enemy is stunned
+she will gain 1 random energy.
+Weapon/Melee/Instant
+
+B: Arrest
+1 haki 1 random, 5 cooldown
+Tashigi arrests one wounded enemy, this skill can only be used on an 
+enemy that has 50 or less health. That enemy will be stunned for 3 turns.
+Strategic/Instant 
+
+C: Intercept
+1 haki, 2 cooldown
+Tashigi intercept an enemy, for 1 turn, Tashigi will counter any new
+harmful skill they use and deal 15 damage to them. This skill is
+invisible.
+Weapon/Melee/Instant
+
+D: Defensive Stance
+1 random, 4 cooldown
+This skill makes Tashigi invulnerable for 1 turn.
+Strategic/Instant

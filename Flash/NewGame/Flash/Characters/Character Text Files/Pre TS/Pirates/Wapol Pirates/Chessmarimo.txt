@@ -1,0 +1,37 @@
+Chessmarimo
+
+A: Dobikkuri Marimo, Cuatro Hammer
+1 weapon, 4 cooldown
+Chessmarimo draws 4 mallets, Chessmarimo will deal 10 damage to one enemy
+each turn for 4 turns. This duration is lowered by 1 each time Chessmarimo
+recieves 10 or more damage in 1 turn.
+Weapon/Melee/Action
+
+B1: Dobikkuri Marimo, Cuatro Axe
+1 random, 4 cooldown
+Chessmarimo wields 4 axes, this skill will be changed to "Happou Yuki 
+Daore" for 3 turns and during this time, Chessmarimo will deal 5 piercing
+weapon damage to any opponent that beforms a new nonstrategic move on him.
+Strategic/Instant
+
+B2: Happou Yukidaore
+1 weapon, no cooldown
+A special attack Chessmarimo beforms with his axes. Chessmarimo will
+deal 25 piercing damage to an opponent. For 1 turn, Chessmarimo will
+ignore all nondamage effects as well as all affliction damage.
+Weapon/Melee/Instant
+
+C: Yukiwarisou
+1 weapon 1 random, 2 cooldown
+Chessmarimo shoots a cutting wind at at the enemy team, all enemies will
+recieve 15 damage and if any of them was deal damage by Chessmarimo this
+turn they will be stunned for 1 turn.
+Weapon/Ranged/Instant
+
+D: Yuki no Ya Marimo
+1 random, 1 cooldown
+Chessmarimo lights some arrows on fire and shoots them at an enemy, that
+enemy will receive 10 damage and then, if they had any destructable 
+defense, they will have an affliction applied to them dealing 5 
+affliction damage each turn for 3 turns.
+Weapon/Ranged/Instant

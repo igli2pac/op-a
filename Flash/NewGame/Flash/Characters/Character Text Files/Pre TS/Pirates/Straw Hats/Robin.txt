@@ -1,0 +1,24 @@
+Nico Robin
+
+A: Clutch
+1 Devil fruit, 1 cooldown
+Robin spawns some arms on an opponent and snaps their back dealing
+5 damage and stunning them for 1 turn.
+Physical/Ranged/Instant/Unique*Devil fruit
+
+B: Slam
+1 Devil Fruit 1 random, no cooldown
+Robin deals 30 damage to an enemy, enemies affected will
+take 10 more damage from Clutch the next turn.
+Physical/Ranged/Instant/Unique*Devil fruit
+
+C: Seis Fleur
+1 Devil Fruit 1 Willpower, 4 cooldown
+For 3 turns, Clutch and Slam will target all enemies,
+also, Robin gains 40 destructable defense.
+Strategic/Instant/Unique*Devil fruit
+
+D: Veinte Fleur - Calendula
+1 random, 4 cooldown
+This skill makes Robin invulnerable for 1 turn.
+Strategic/Instant/Unique*Devil fruit

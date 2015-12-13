@@ -1,0 +1,5 @@
+﻿<flash_project name="abc" version="1">
+    <project_file path="./main.as" filetype="as" />
+    <project_file path="../../../Desktop/darkstar-as3-0.9.8.swc" filetype="swc" />
+    <project_file path="./socket.fla" filetype="fla" profile="" />
+</flash_project>

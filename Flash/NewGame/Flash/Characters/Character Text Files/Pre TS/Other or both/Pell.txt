@@ -1,0 +1,27 @@
+Pell
+
+A: Tobizume
+1 physical 1 random, 1 cooldown
+Pell flies past the enemy team dealing 20 damage to each opponent, if Pell
+took damage last turn, this skill will have no cooldown. This skill cannot
+be countered or reflected.
+Physical/Melee/Instant/Unique*Devil fruit
+
+B: Martyr
+2 random, no cooldown
+Pell sacrifices himself to save his allies. Pell dies and both allies are
+returned to full health. Also, if Pell had less than 15 health, those
+allies will also become invulnerable for 1 turn.
+Strategic/Instant
+
+C: Tori Tori no Mi: Model Falcon
+1 devil fruit, 3 cooldown
+Pell transforms into his half falcon form, for 2 turn, whenever Pell uses
+"Tobizume" he will become invulnerable for 1 turn. During this time, Pell
+will gain 50% damage reduction.
+Strategic/Instant/Unique*Devil fruit
+
+D: Fast Flight
+1 random, 4 cooldown
+This skill makes Pell invulnerable for 1 turn.
+Strategic/Instant

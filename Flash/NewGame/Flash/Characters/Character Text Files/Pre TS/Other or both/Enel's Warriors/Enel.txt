@@ -1,0 +1,26 @@
+Enel
+
+A: 200 Million Volt Vari
+1 Devil Fruit 1 Random, no cooldown
+Enel deals 30 piercing damage to one enemy and reduces that enemies 
+nonaffliction damage by 10 for 1 turn.
+Devil Fruit/Ranged/Instant/Unique*Devil fruit
+
+B: El Thor
+1 Devil Fruit 1 Willpower, 2 cooldown
+Enel deals 25 piercing damage to all enemies and reduces 
+their nonaffliction damage by 15 for 1 turn.
+Devil Fruit/Ranged/Instant/Unique*Devil fruit
+
+C: Rebirth
+1 Devil Fruit 1 Willpower, 6 cooldown
+Can only be used when Enel is at 40 health or less. If
+Enel would die he is instead revived and brought back to
+full health. This ability is invisible to the enemy. 
+Strategic/Instant/Unique*Devil fruit
+
+D: Lightning Body
+2 Random, 4 cooldown
+Enel ignores all effects except healing and cooldown/energy-cost changes 
+for 2 turns.
+Strategic/Instant*Unique*Devil fruit

@@ -1,0 +1,31 @@
+Kuzan - Aokiji
+
+A: Ice Age
+2 random, 4 cooldown
+Aokiji freezes the battlefield, covering everything in ice,
+for the next three turns, nonaffliction damage dealt to allies
+is reduced by 5 and (na) damage dealt by enemies are reduced
+by 5. If Ice Saber is used on an enemy during this time,
+it will deal an additional 5 damage.
+Strategic/Action/Unique*Devil fruit
+
+B: Ice Saber
+1 devil fruit, 2 cooldown
+Aokiji forms a sword of ice, dealing 10 damage to one enemy
+every turn for 2 turns. During this time, nonaffliction damage
+dealt by that enemy is decreased by 10. 
+Devil Fruit/Melee/Action/Unique*Devil fruit
+
+C: Ice Time
+1 devil fruit 1 random, 6 cooldown
+Aokiji incapsules an enemy in ice, stunning them for 5 turns
+or until they have 3 new moves used on them (includes both 
+friendly and offensive moves).
+Devil fruit/Melee/Instant/Unique*devil fruit
+
+D: Ice Form
+1 random, 4 cooldown
+This skill makes Aokiji invulnerable for 1 turn.
+If Ice Age is active, "Ice Saber" will deal 5 more damage for 1 
+turn.
+Strategic/Instant/Unique*Devil fruit

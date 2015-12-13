@@ -1,0 +1,29 @@
+Sentomaru
+
+A: Ashigara Dokkoi
+1 haki 1 random, 1 cooldown
+Sentomaru rings out an opponent using busoshoku haki, one enemy will be
+dealt 30 damage and for 1 turn, if that enemy uses a new non-strategic
+skill, Sentomaru will use "Haki Mountain", even if it is on cooldown
+or already active. This skill ignores all benefits gained from devil 
+fruit abilities except destructable defense
+Physical/Melee/Instant*Haki
+
+B: Haki Mountain
+1 haki, 2 cooldown
+Sentomaru's great haki mastery gives him a great defense, for 2 turn,
+Sentomaru will counter the first new skill used on him and deal 15 damage
+to the character that was countered. This skill is invisible. And will
+go on cooldown when triggered or it expires.
+Physical/Melee/Instant*Haki
+
+C: Call in the Pacifistas
+1 haki 1 random, 4 cooldown
+Sentomaru calls in a pacifista to replace an ally, one dead ally will
+be replaced with Pacifista and has 30 health that cannot be healed.
+Strategic/Instant
+
+D: Perfect Defense
+1 random, 4 cooldown
+This skill makes Sentomaru invulnerable for 1 turn.
+Strategic/Instant

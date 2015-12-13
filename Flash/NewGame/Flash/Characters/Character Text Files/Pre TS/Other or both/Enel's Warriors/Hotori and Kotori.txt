@@ -1,0 +1,35 @@
+Hotori and Kotori
+
+A: Axe Dial
+1 random, no cooldown
+Hotori uses the Axe Dial, dealing 5 damage to all enemies. This skill
+will deal 5 extra damage for each other skill Hotori and Kotori has used
+during this last 2 turns.
+Weapon/Ranged/Instant
+
+B: Flavor Dial
+1 Weapon, 3 cooldown.
+Kotori releases his farts from the Flavor Dial, reducing
+non-affliction damage dealt by all enemies by 10 for 2 turns.
+Weapon/Ranged/Instant
+
+C: Flame Dial
+1 Weapon 1 random, no cooldown.
+Hotori shoots from the Flame Dial, dealing 15 damage to 
+one enemy, if that enemy is affected by the Flavor Dial 
+then Hotori deals 20 damage to all enemies instead.
+Weapon/Ranged/Instant
+
+D1: Impact Dial Absorb
+1 Random, 4 cooldown
+This skill makes Hotori and Kotori invulnerable for 1 turn. This skill
+will become Bikkuri Dial Illusion after use.
+Strategic/Instant
+
+D2: Bikkuri Dial Illusion
+1 haki 2 random, 5 cooldown
+Hotori and Kotori start spinning in a circle. Each turn for 3 turns Hotori
+and Kotori will activate a random offensive skill, ignoring its 
+cooldown. If Flame Dial is used it will target a random enemy. 
+This skill becomes Impact Dial Absorb after use.
+Strategic/Instant/Unique

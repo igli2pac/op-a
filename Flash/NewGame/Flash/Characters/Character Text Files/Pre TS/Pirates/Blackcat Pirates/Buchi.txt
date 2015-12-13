@@ -1,0 +1,27 @@
+Buchi
+
+A: Cat the Funjyatta
+1 physical, no cooldown
+Buchi jumps at an opponent to crush them dealing 20 damage to them.
+If that enemy is stunned in any way, this skill deals an additional
+10 damage.
+Physical/Melee/Instant
+
+B: Cat the Funjyatta: Crush
+1 physical 1 haki, 1 cooldown
+Imbued with the power of hypnosis, Buchi jumps at the enemy team
+dealing 30 damage to all opponents and stunning them for 1 turn.
+This skill can only be used when Buchi is at or below 30 health.
+Physical/Melee/Instant
+
+C: Buchi's Neko-Yanagi Daikoshin
+1 physical 1 random, 1 cooldown
+Teaming up with Sham, Buchi deals 20 damage to one opponent each 
+turn for 2 turns. If Sham uses "Neko-Yanagi Daikoshin" during this
+time, this skill will also stun that enemy for 1 turn.
+Physical/Melee/Action
+
+D: Massive Leap
+1 random, 4 cooldown
+Buchi becomes invulnerable for 1 turn.
+Strategic/Instant

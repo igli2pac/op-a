@@ -1,0 +1,40 @@
+Rob Lucci
+
+A1: Tobu Shigan "Bachi"
+1 physical, no cooldown
+Lucci shoots an enemy with a ranged Shigan dealing 10 damage
+each turn for 2 turns.
+Physical/Ranged/Instant
+
+A2: Maul
+2 physical, 3 cooldown
+Lucci jumps an opponent, stunning them and dealing 10 damage
+each turn. This skill will end if Lucci uses Neko Neko no Mi,
+Model Leopard. (Or other control-centric stuff like being stunned
+or the enemy becoming invulnerable to Physical or Melee moves)
+Physical/Melee/Control
+
+B: Neko Neko no Mi, Model Leopard
+1 random, no cooldown
+Lucci transforms with his devil fruit, giving him a benifical
+effect based on what mode he's in (starts in human form).
+
+Human form: Lucci gains 10 damage reduction.
+
+Hybrid form: Tobu Shigan "Bachi" and Rokushiki Ogi: Rokuogan deals an 
+additional 10 damage.
+
+Leopard form: Tobu Shigan "Bachi" will be changed to Maul.
+Strategic/Instant/Unique*Devil fruit
+
+C: Rokushiki Ogi: Rokuogan
+1 physical 1 haki, 1 cooldown
+Lucci uses the ultimate rokushiki technique at an opponent dealing
+50 piercing damage to that opponent. Then Lucci is dealt 25 
+affliction damage.
+Physical/Melee/Instant/Unique
+
+D: Seimei Kikan: Kami-e Bushin
+1 random, 4 cooldown
+Lucci becomes invulnerable for 1 turn.
+Strategic/Instant/Unique

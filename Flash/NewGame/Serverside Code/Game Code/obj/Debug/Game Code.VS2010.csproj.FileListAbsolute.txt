@@ -1,0 +1,14 @@
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\newGame.dll
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\newGame.pdb
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\Serverside Code\Game Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\Serverside Code\Game Code\obj\Debug\newGame.dll
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\Serverside Code\Game Code\obj\Debug\newGame.pdb
+C:\Documents and Settings\Administrator\Desktop\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\newGame.dll
+C:\Documents and Settings\Administrator\Desktop\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\newGame.pdb
+C:\Documents and Settings\Administrator\Desktop\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Documents and Settings\Administrator\Desktop\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Documents and Settings\Administrator\Desktop\PlayerIO\Flash\NewGame\Serverside Code\Game Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\PlayerIO\Flash\NewGame\Serverside Code\Game Code\obj\Debug\newGame.dll
+C:\Documents and Settings\Administrator\Desktop\PlayerIO\Flash\NewGame\Serverside Code\Game Code\obj\Debug\newGame.pdb

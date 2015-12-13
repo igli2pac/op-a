@@ -1,0 +1,29 @@
+Rayleigh
+
+A: Haoshoku Haki
+1 haki 1 random, 4 cooldown
+Reyleigh stuns all other characters that has 60 or less health 
+for 1 turn. Characters not stunned by this effect will ignore 
+stuns for 2 turns.
+Haki/Ranged/Instant/Unique
+
+B: Busoshoku Haki
+1 Haki, no cooldown
+Rayleigh deals 20 damage to target opponent, this skill
+ignores all benefits gained from devil fruit abilities on enemies.
+Physical/Melee/Instant*Haki
+
+C: Deflection
+1 haki, 1 cooldown
+Rayleigh interupts an enemy, that enemy will have their next
+non-willpower nonstrategic skill countered. This skill lasts for 3 turns
+or until triggered.
+This skill cannot be used while in use and will go on cooldown
+when triggered or it expires.
+Physical/Melee/Action*Haki
+
+D: Kenbunshoku Haki
+1 haki, 4 cooldown
+Rayleigh becomes invulnerable for 2 turns. Then Rayleigh is 
+dealt 10 affliction damage. 
+Haki/Action

@@ -1,0 +1,27 @@
+p { 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px;
+text-align:justify;
+color:#666666; 
+margin-right:20px;
+}
+
+.header { 
+font-size: 24px;
+color:#E40018; 
+text-align:center; 
+}
+
+.footer { 
+font-family:Geneva, Arial, Helvetica, sans-serif; 
+text-align:right;
+} 
+
+a { 
+color:#FF0000; 
+font-weight:bold; 
+} 
+
+a:hover { 
+text-decoration:underline; 
+}

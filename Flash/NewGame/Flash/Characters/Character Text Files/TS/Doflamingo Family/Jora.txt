@@ -1,0 +1,30 @@
+Jora
+
+A: Broken-Fu Art
+1 devil fruit, 1 cooldown
+Jora throws a vision at an enemy, stunning their non-strategic skills and
+removing 1 random energy from them. That enemy will recieve 10 extra
+affliction damage from "Dying Art" this turn.
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+B: Dying Art
+1 devil fruit 1 random, 2 cooldown
+Jora trap the enemy team in a piece of art, stunning their strategic
+skills for 3 turns as well as dealing 10 affliction* damage to them each
+turn. All enemies will have their non-affliction damage reduced by
+5 for the duration of this skill. This skill will refresh if used again
+and will end if Jora dies or is stunned.
+Devil fruit/Ranged/Control/Unique*Devil fruit*Affliction
+
+C: Heaven's Do Art
+2 devil fruit, 4 cooldown
+Jora traps the enemy team in a self-created dimension of art, all 
+characters will become invulnerable to all skills except for Joras for
+2 turns. This skill will end of Jora dies or is stunned.
+Strategic/Control/Unique*Devil fruit
+
+D: Victory Dance
+1 random, 4 cooldown
+This skill makes Jora invulnerable for 1 turn, and if any enemy is dead
+she will also ignore stuns for 2 turns.
+Strategic/Instant

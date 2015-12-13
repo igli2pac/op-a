@@ -1,0 +1,31 @@
+Franky
+
+A: Strong Right
+1 Weapon, no cooldown
+Franky uses 1 cola charge to swing with his right arm dealing 25 
+damage to one enemy ignoring damage reduction on Franky, if no cola
+is available then this move deals 15 damage instead.
+Physical/Melee/Instant
+
+B: Weapons Left
+1 weapon 1 random, no cooldown
+Franky uses 1 cola charge to shoot at an enemy dealing
+25 damage and gaining 1 random energy, if no cola is
+available then this move cannot be used.
+Weapon/Ranged/Instant
+
+C: Coup du Vent
+2 weapon, no cooldown
+Franky uses all of his cola charges to deal 40 damage
+to an opponent plus 5 extra for every cola charge he had,
+that enemy is also stunned for 1 turn. Cannot be used
+without cola charges.
+Weapon/Ranged/Instant/Unique
+
+D: Cola Bottles
+1 random, 1 cooldown
+Franky gets a new supplement of cola, gaining three cola
+charges. As long as Franky has cola charges, this move can
+be used to deplete one charge and become invulnerable for
+1 turn.
+Strategic/Instant/Unique

@@ -1,0 +1,29 @@
+Wiper
+
+A: Burn Bazooka
+1 weapon 1 random, 1 cooldown
+Wiper shoots a giant blue flame at the enemy team with his bazooka, all
+enemies will be dealt 20 damage and for 3 turns if an enemy has a new
+affliction applied to them they won't be able to reduce damage for 2 
+turns. Both of these effects refresh.
+Weapon/Ranged/Instant
+
+B: Reject Dial
+1 weapon 1 physical, 2 cooldown
+Closing in on an enemy, Wiper releases the deadly Reject Dial destroying
+both him and his enemy, one enemy will be dealt 60 piercing damage and 
+Wiper will be dealt 30 affliction damage. This skill ignores 
+invulnerability.
+Weapon/Melee/Instant*Affliction
+
+C: Kairoseki Skates
+1 weapon, no cooldown
+Wiper kicks an enemy with his skates dealing 15 damage and applying an 
+affliction reducing their non-affliction damage 5 for 3 turns. This
+affliction stacks.
+Weapon/Melee/Instant*Affliction
+
+D: Airborn Assassin
+1 random, 4 cooldown
+This skill makes Wiper invulnerable for 1 turn.
+Strategic/Instant

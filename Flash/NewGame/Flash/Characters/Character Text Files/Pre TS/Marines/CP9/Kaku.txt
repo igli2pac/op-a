@@ -1,0 +1,57 @@
+Kaku
+
+A: Rankyaku "Ran"
+1 Random, 3 cooldown
+Kaku slices the air to launch many small waves at the
+enemy dealing 5 piercing damage each turn to every enemy 
+for 3 turns. An enemy that takes damage from this move
+is unable to become invulnerable for 1 turn.
+Weapon/Ranged/Action
+
+B: Rankyaku "Hakurai"
+2 Random, 1 cooldown
+Haku creates a larger Rankyaku blade which deals 30 damage to one 
+character, if Rankyaku "Ran" is active on that enemy, this skill will have
+no cooldown.
+Weapon/Ranged/Instant
+
+C: Henkei Jinjugata
+1 random, 2 cooldown (Shared cooldown with Human form)
+Kaku transforms into his half giraffe form, switching his
+moveset, this skill will become Human Form after use.
+Devil fruit/Instant/Unique*Devil fruit
+
+D: Quick Dodge
+1 random, 4 cooldown
+This skill makes Kaku invulnerable for 1 turn.
+Strategic/Instant
+
+
+Girrafe Form
+
+A: Rankyaku "Amane Dachi"
+1 Devil Fruit 1 Physical, 3 cooldown
+Kaku rotates on the spot, accelerating for 1 turn, during this
+time Kaku is unaffected by stuns, after accelerating
+Kaku deals 40 damage to all enemies. This skill will end
+if Kaku takes 50 or more damage while accelerating.
+Weapon/Ranged/Control/Unique
+
+B: Bigan
+1 Devil Fruit, no cooldown
+Kaku uses his long neck and nose to use a modified version
+of Shigan dealing 20 damage to a character and removing
+all DD from that character.
+Physical/Melee/Instant/Unique*Devil fruit
+
+C: Human Form
+1 random, 2 cooldown (Shared cooldown with Henkei Kinkugata)
+Transforms back into a human, swithing back to his 
+original moveset.
+Strategic/Instant/Unique*Devil fruit
+
+D: Tekkai "Mushikaku"
+1 random, 4 cooldown
+Kaku forms a cube with no weak spots, becoming invulnerable for 1
+turn.
+Strategic/Instant/Unique*Devil fruit

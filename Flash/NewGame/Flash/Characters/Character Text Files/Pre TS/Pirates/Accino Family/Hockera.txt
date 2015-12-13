@@ -1,0 +1,27 @@
+Hockera
+
+A: Body Freeze
+1 random, no cooldown
+Hockera shoots a freezing hockey puck at an opponent, that
+opponent will be dealt 15 damage and receive a debuff reducing
+their nonaffliction damage by 10 until they use a new offensive 
+non-strategic skill. This effect stacks.
+Weapon/Ranged/Instant
+
+B: Subzero Trap
+1 weapon 1 random, 4 cooldown
+Hockera freezes his opponents inside a vessel, all opponents 
+gain 15 DD and become stunned for 1 turn.
+Weapon/Ranged/Instant
+
+C: Call the Penguins!
+2 random, 4 cooldown
+Hockera calls a horde of penguins to distracts his opponents. For 3 turns
+Hockera and his allies attacks cannot be countered or reflected
+and Body Freeze will ignore invulnerability.
+Strategic/Instant
+
+D: Scared Dodge
+1 random, 4 cooldown
+Hockera becomes invulnerable for 1 turn.
+Strategic/Instant

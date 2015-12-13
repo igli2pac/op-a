@@ -1,0 +1,28 @@
+Mohji
+
+A: Whip Strike
+1 random, no cooldown
+Mohji whips an opponent, dealing 5 damage to them. If that 
+enemy uses an offensive skill next turn, they will have an 
+affliction applied to them, increasing nonaffliction damage dealt to them
+by 10 for 2 turns. This skill stacks.
+Weapon/Ranged/Instant*Affliction
+
+B: Whip Snare
+1 random, 2 cooldown
+Mohji catches an opponent with his whip, that enemy will be
+stunned for 1 turn. If that enemy is affected by Whip Strike
+they will be dealt 10 damage.
+Weapon/Ranged/Instant
+
+C: Animal Training
+2 random, 3 cooldown
+Mohji is a selfproclaimed master of animals. Mohji tries to
+tame one of his opponents, decreasing nonaffliction damage 
+dealt by the target by 10 for 2 turns.
+Strategic/Action
+
+D: Riding Richie
+1 random, 4 cooldown
+This skill makes Mohji invulnerable for 1 turn.
+Strategic/Instant

@@ -1,0 +1,28 @@
+Buggy
+
+A: Bara Bara Ho
+1 Devil Fruit, no cooldown
+This skill deals 20 damage to an enemy, if that enemy
+was invulnerable then this skill deals 30 damage instead.
+This skill ignores invulnerability.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+B: Bara Bara Festival
+2 Devil Fruit, 4 cooldown
+Buggy becomes invulnerable to weapon and ranged skills for 
+2 turn during this time, Buggy will deal 5 damage to every opponent each 
+turn.
+Physical/Ranged/Control/Unique*Devil fruit
+
+C: Bara Bara Senbei
+1 Devil Fruit 1 Weapon, 2 cooldown
+This skill deals 30 damage to one opponent and stuns that character's 
+non-strategic skills for 2 turn. If that enemy is invulnerable then this 
+skill deals 15 additional damage.
+This skill ignores invulnerability.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+D: Bara Bara Kinkyu Dasshutsu
+1 random, 4 cooldown
+This skill makes Buggy invulnerable for 1 turn.
+Strategic/Instant/Unique*Devil fruit

@@ -1,0 +1,28 @@
+Mr. 4
+
+A: Yonhyappon Punk Knock
+1 Weapon 1 random, no cooldown
+Mr.4 deals 30 damage to one enemy, if Molehill 4th Avenue is active then 
+Mr.4 becomes invulnerable for 1 turn and this skill will ignore 
+invulnerability.
+Weapon/Ranged/Instant
+
+B: Curveball
+1 Weapon, no cooldown
+This skill deals 10 damage to an enemy, if Molehill 4th Avenue is active 
+then this skill will deal 15 more damage and ignore invulnerability.
+Weapon/Ranged/Instant
+
+C: Mogurazuka Yonban Kousaten
+1 Physical 1 Weapon, 3 cooldown
+Mr.4 deals 40 damage to an enemy, if that enemy is affected
+by Mogurazuka Highway then this skill will deal 50 damage
+instead and stun the enemy for 2 turns.
+Weapon/Melee/Instant
+
+D: Slow Reactions
+1 random, 4 cooldown
+Mr 4 will ignore all skills used on him for 2 turns. After those
+2 turns have passed all skills used on Mr.4 during this time will
+be applied in the same order.
+Strategic/Instant

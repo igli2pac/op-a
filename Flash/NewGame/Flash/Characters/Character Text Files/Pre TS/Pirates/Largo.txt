@@ -1,0 +1,34 @@
+Largo
+
+A: Millionet
+1 devil fruit, no cooldown
+Largo drinks some boiling water to create a net of water dealing
+15 affliction damage to an opponent and making them ignore
+all positive effects except skill changes for 1 turn.
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+B: Mucho-Mucho Zenshin Taimo
+2 devil fruit 1 random, 4 cooldown
+Largo traps an opponent inside himself. One enemy will be stunned
+for 5 turns or until Largo dies. If that enemy receives 
+nonaffliction damage during this time, Largo will be dealt damage
+equal to 50% of the received damage rounded down. This skill 
+cannot be interrupted by stuns, but will end if the targeted 
+enemy becomes invulnerable.
+(Meaning, if the trapped enemy takes 25 damage from Luffy's Gomu Gomu no 
+Pistol, then they will be dealt 25 damage and Largo will lose
+12 health. The damage he receives ignores invulnerability)
+Physical/Melee/Control/Unique*Devil fruit
+
+C: Muchi Tetsujo Mo
+1 devil fruit, 1 cooldown
+Largo traps an opponent inside a steel cage, that enemy will
+be stunned for 1 turn. If that enemy was already stunned then
+they will receive 20 damage instead.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+D: No Shock Taimo
+1 random, 4 cooldown
+Largo's body can turn into a net shape, Largo becomes invulnerable
+to physical and ranged attacks for 2 turns.
+Devil fruit/Instant/Unique*Devil fruit

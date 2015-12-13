@@ -1,0 +1,27 @@
+Foxy the Silver Fox
+
+A: Noro Noro Beam
+1 devil fruit 1 random, 4 cooldown
+Foxy slows down the enemy team. For 3 turns all enemies will have their 
+cooldowns increased by 3 and anytime a skill is used on them, they will
+ignore it for 3 turns and then be applied it again.
+Strategic/Ranged/Instant/Unique*Devil fruit
+
+B: Megaton Kyubi Rush
+1 physical, no cooldown
+Foxy rushes in with a quick flurry of punches. One enemy affected by 
+Noro Noro Beam will be dealt 30 damage.
+Physical/Melee/Instant
+
+C: Foxy Fighter
+1 weapon, no cooldown
+Foxy shoots a cannonball at an enemy at slow it down, one enemy will
+be dealt 25 damage next turn. The target of this skill is invisible.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+D: Defensive Beam
+1 random, 4 cooldown
+Foxy slows down an enemies attack, for 1 turn if an enemy uses a new skill
+on Foxy they will be stunned for 1 turn, this skill bypasses Noro Noro
+Beam. This skill is invisible.
+Strategic/Instant/Unique*Devil fruit

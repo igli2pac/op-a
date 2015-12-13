@@ -1,0 +1,25 @@
+Brook
+
+A: Nemuriuta Flanc
+1 willpower, 3 cooldown
+Makes one target enemy fall asleep, stunning them for 2 turns
+or until they take damage.
+Strategic/Instant
+
+B: Hanauta Sancho: Yahazu Giri
+1 weapon 1 physical, 2 cooldown
+Brook skewers multiple enemies at lightning speed, making
+them not realise the damage for a few seconds, all enemies
+take 20 piercing damage, then take 20 piercing damage again next 
+turn. This skill ignores invulnerability.
+Weapon/Melee/Action
+
+C: Milky Recover
+1 willpower, 1 cooldown
+Brook regains 20 health and gains 5 destructable defense.
+Strategic/Instant
+
+D: Skeleton Body
+1 random, 4 cooldown
+Brook becomes invulnerable for 1 turn.
+Strategic/Instant/Unique

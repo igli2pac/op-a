@@ -1,0 +1,11 @@
+Getting started
+===============
+
+The Unity3D client supports all the Player.IO tools and services and 
+works in all Unity3D enviroments: App, Web, iOS etc.
+
+Examples:
+
+* Example - Multiplayer - Mushrooms
+  Read the "Getting Started.txt" file in the 
+  "Example - Multiplayer - Mushrooms" folder

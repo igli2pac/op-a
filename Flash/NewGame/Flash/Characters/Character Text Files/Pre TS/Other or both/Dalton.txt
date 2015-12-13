@@ -1,0 +1,30 @@
+Dalton
+
+A: Fiddle Banff
+1 Physical 1 random, 1 cooldown
+Dalton quickly rushes through and cuts his enemies. All enemies will
+be dealt 20 damage. This skill cannot be countered or reflected.
+Weapon/Melee/Instant
+
+B: Ushi Ushi no Mi: Model Full Bison 
+1 devil fruit, 3 cooldown
+Dalton changes to full bison mode, for 2 turns, "Fiddle Banff" will deal
+5 additional damage and will ignore invulnerability. Dalton will gain
+10 damage reduction during this time.
+If "Ushi Ushi no Mi: Model Half Bison" is used during this time, this
+skill will end.
+Strategic/Instant/Unique*Devil fruit
+
+C: Ushi Ushi no Mi: Model Half Bison
+1 devil fruit, 3 cooldown
+Dalton switches to half bison mode, for 2 turn, "Fiddle Banff" will have
+its cooldown reduced by 1 and will also deal 20 damage to a random enemy.
+Dalton will ignore affliction damage during this time.
+If "Ushi Ushi no Mi: Model Full Bison" is used during this time, this 
+skill will end.
+Strategic/Instant/Unique*Devil fruit 
+
+D: Quick Dodge
+1 random, 4 cooldown
+This skill makes Dalton invulnerable for 1 turn.
+Strategic/Instant

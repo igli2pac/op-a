@@ -1,0 +1,27 @@
+Porche
+
+A: Ohana Shuriken
+1 haki, 1 cooldown
+Porche shoots some disguised shurikens at her opponents, all enemies will
+be dealt 10 damage each turn for 2 turns. During this time, if any enemy 
+gains destructable defense or damage reduction "Ohana Shuriken" will be
+refreshed on that enemy. This skill stacks up to three times.
+Weapon/Ranged/Action
+
+B: Cutie Baton
+1 random, 3 cooldown
+Porche swings her baton, for 3 turns "Ohana Shuriken" will deal 5 more
+damage and have no cooldown. During this time, Porche will gain 10 damage
+reduction.
+Strategic/Instant
+
+C: Ohana Saimin
+1 haki 1 random, 3 cooldown
+Porche intoxicates an enemy, for 3 turns, that enemy will have their
+skills that cost 2 or more energy stunned.
+Weapon/Ranged/Instant
+
+D: Celebration
+1 random, 4 cooldown
+This skill makes Porche invulnerable for 1 turn.
+Strategic/Instant

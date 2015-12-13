@@ -1,0 +1,30 @@
+Donquixote Doflamingo
+
+A: Parasite
+2 devil fruit, 5 cooldown
+Doflamingo controls an opponent like a marionet. For 3 turns, 
+one enemy will be stunned and Doflamingo will become invulnerable.
+During this time, Doflamingo's skills will be replaced by that 
+enemies skills (even unique skills). This effect cannot be ignored
+by Doflamingo.
+Strategic/Instant/Unique*Devil fruit
+
+B: String Beheading
+1 devil fruit, no cooldown
+Doflamingo uses a string to cut off an enemies head. One enemy
+that has below 30 health will be dropped to 5 health. This skill cannot
+be countered or reflected.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+C: Invisible Cutting Knot
+1 devil fruit, no cooldown
+Doflamingo cuts an enemy with his strings while moving quickly
+trough the battlefield, one enemy will recieve 10 damage and
+Doflamingo will ignore all nondamage effects for 2 turns, this
+effect refreshes if used while active.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+D: Leg Block
+1 random, 4 cooldown
+This skill makes Doflamingo invulnerable for 1 turn.
+Strategic/Instant

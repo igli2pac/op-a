@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chars>
+	<character name="sanji">
+		<skill1 type="attack" GGNG="1" damage="15">
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>20</damage>
+			<description>Luffy pumps blood faster increasing his speed and power. For 3 turns Luffy will take 3 affliction damage*, will have 50% damage reduction, and his skills will deal 5 more damage. During this, if an ally dies then all enemies take 10 damage.</description>
+			<name>Gomu Gomu no Gatling</name>
+			<turns>2</turns>
+			<target>3</target>
+			<physical>0</physical>
+			<weapon>0</weapon>
+			<devilfruit>1</devilfruit>
+			<special>0</special>
+			<random>0</random>
+			<enreducedmgvuln></enreducedmgvuln>
+			<increase></increase>
+			<skill></skill>
+			<class1>ranged</class1>
+			<class2>action</class2>
+			<invulnerable></invulnerable>
+		</skill1>
+		<skill2 type="attack" GGNG="1" damage="15">
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>20</damage>
+			<description>Luffy pumps blood faster increasing his speed and power. For 3 turns Luffy will take 3 affliction damage*, will have 50% damage reduction, and his skills will deal 5 more damage. During this, if an ally dies then all enemies take 10 damage.</description>
+			<name>Gomu Gomu no Gatling</name>
+			<turns>1</turns>
+			<target>3</target>
+			<physical>0</physical>
+			<weapon>0</weapon>
+			<devilfruit>1</devilfruit>
+			<special>2</special>
+			<random>1</random>
+			<enreducedmgvuln></enreducedmgvuln>
+			<increase></increase>
+			<skill></skill>
+			<class1>ranged</class1>
+			<class2>action</class2>
+			<invulnerable></invulnerable>
+		</skill2>
+		<skill3></skill3>
+		<skill4></skill4>
+	</character>
+	
+	<character name="brook">
+	<description>
+	Monkey D. Luffy is the grandson of the infamous Admiral Monkey D. Garp. Unlike his grandfather, Luffy didn't become a Marine; his dream is to become the opposite, the Pirate King! In order to do so, he created the Straw Hat Pirates and picks powerful members himself. Even though the Devil Fruit, Gomu Gomu no Mi, that Luffy ate brought him a weakness, he still remains a figure that should not be underestimated, for he has proven his power throughout many battles
+	</description>
+		<skill1>
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>30</damage>
+			<description>Luffy shoots out his arms at high speeds. This deals 25 damage. Below 60 health, this skill will deal half of the damage Luffy has taken. Below 25 health, this skill will cost 1 more random chakra, will deal piercing damage and will have a cooldown of 1.</description>
+			<name>Gomu Gomu no Pistol</name>
+			<turns>1</turns>
+			<target>1</target>
+			<increase></increase>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill>unique</skill>
+			<class1>ranged</class1>
+			<class2>instant</class2>
+			<invulnerable>0</invulnerable>
+			<physical>0</physical>
+			<weapon>0</weapon>
+			<devilfruit>1</devilfruit>
+			<special>0</special>
+			<random>1</random>
+		</skill1>
+		<skill2 type="attack" damage="20" target="1" invulnerable="1">
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>20</damage>
+			<description>Luffy sends a very strong punch at his enemy dealing 30 piercing damage. For 1 turn if the targeted enemy uses a passive skill, then his passive skills will be stunned. If he uses an offensive skill then his offensive skills will be stunned.</description>
+			<name>Gomu Gomu no Pistol</name>
+			<turns>1</turns>
+			<target>1</target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<increase></increase>
+			<skill></skill>
+			<class1>meele</class1>
+			<class2>instant</class2>
+			<invulnerable>1</invulnerable>
+		</skill2>
+		<skill3 type="attack" GGNG="1" damage="15">
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>20</damage>
+			<description>Luffy pumps blood faster increasing his speed and power. For 3 turns Luffy will take 3 affliction damage*, will have 50% damage reduction, and his skills will deal 5 more damage. During this, if an ally dies then all enemies take 10 damage.</description>
+			<name>Gomu Gomu no Gatling</name>
+			<turns>1</turns>
+			<target>3</target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<increase></increase>
+			<skill></skill>
+			<class1>ranged</class1>
+			<class2>action</class2>
+			<invulnerable></invulnerable>
+		</skill3>
+		<skill4 type="invulnerable" invulnerable="1">
+			<class1>fruit</class1>
+			<class2>instant</class2>
+			<invulnerable>This skills make Monkey D. Luffy invulnerable for 1 turn.</invulnerable>
+		</skill4>
+	</character>
+	<character name="luffy">
+	<description>
+	Monkey D. Luffy is the grandson of the infamous Admiral Monkey D. Garp. Unlike his grandfather, Luffy didn't become a Marine; his dream is to become the opposite, the Pirate King! In order to do so, he created the Straw Hat Pirates and picks powerful members himself. Even though the Devil Fruit, Gomu Gomu no Mi, that Luffy ate brought him a weakness, he still remains a figure that should not be underestimated, for he has proven his power throughout many battles
+	</description>
+		<skill1>
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>30</damage>
+			<description>Luffy shoots out his arms at high speeds. This deals 25 damage. Below 60 health, this skill will deal half of the damage Luffy has taken. Below 25 health, this skill will cost 1 more random chakra, will deal piercing damage and will have a cooldown of 1.</description>
+			<name>Gomu Gomu no Pistol</name>
+			<turns>1</turns>
+			<target>1</target>
+			<increase></increase>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill>unique</skill>
+			<class1>ranged</class1>
+			<class2>instant</class2>
+			<invulnerable></invulnerable>
+			<physical>0</physical>
+			<weapon></weapon>
+			<devilfruit>1</devilfruit>
+			<special></special>
+			<random>1</random>
+		</skill1>
+		<skill2 type="attack" damage="20" target="1" invulnerable="1">
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>20</damage>
+			<description>Luffy sends a very strong punch at his enemy dealing 30 piercing damage. For 1 turn if the targeted enemy uses a passive skill, then his passive skills will be stunned. If he uses an offensive skill then his offensive skills will be stunned.</description>
+			<name>Gomu Gomu no Pistol</name>
+			<turns>1</turns>
+			<target>1</target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<increase></increase>
+			<skill></skill>
+			<class1>meele</class1>
+			<class2>instant</class2>
+			<invulnerable>1</invulnerable>
+		</skill2>
+		<skill3 type="attack" GGNG="1" damage="15">
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>20</damage>
+			<description>Luffy pumps blood faster increasing his speed and power. For 3 turns Luffy will take 3 affliction damage*, will have 50% damage reduction, and his skills will deal 5 more damage. During this, if an ally dies then all enemies take 10 damage.</description>
+			<name>Gomu Gomu no Gatling</name>
+			<turns>1</turns>
+			<target>3</target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<increase></increase>
+			<skill></skill>
+			<class1>ranged</class1>
+			<class2>action</class2>
+			<invulnerable></invulnerable>
+		</skill3>
+		<skill4 type="invulnerable" invulnerable="1">
+			<class1>fruit</class1>
+			<class2>instant</class2>
+			<invulnerable>This skills make Monkey D. Luffy invulnerable for 1 turn.</invulnerable>
+		</skill4>
+	</character>
+	<character name="oldluffy">
+		<skill1>
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>30</damage>
+			<description>ROFL ROFL</description>
+			<name>Gomu Gomu no Pistol</name>
+			<turns>1</turns>
+			<target>1</target>
+			<increase></increase>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill>unique</skill>
+			<class1>ranged</class1>
+			<class2>instant</class2>
+			<invulnerable></invulnerable>
+		</skill1>
+		<skill2 type="attack" damage="20" target="1" invulnerable="1"></skill2>
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>20</damage>
+			<description>1</description>
+			<name>Gomu Gomu no Pistol</name>
+			<turns>1</turns>
+			<target>1</target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<increase></increase>
+			<skill></skill>
+			<class1>meele</class1>
+			<class2>instant</class2>
+			<invulnerable>1</invulnerable>
+		<skill3 type="attack" GGNG="1" damage="15">
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>20</damage>
+			<description>1</description>
+			<name>Gomu Gomu no Gatling</name>
+			<turns>1</turns>
+			<target>3</target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<increase></increase>
+			<skill></skill>
+			<class1>ranged</class1>
+			<class2>action</class2>
+			<invulnerable></invulnerable>
+		</skill3>
+		<skill4 type="invulnerable" invulnerable="1">
+			<class1>fruit</class1>
+			<class2>instant</class2>
+			<invulnerable></invulnerable>
+		</skill4>
+	</character>
+		<character name="readytocopy">
+		<skill1>
+			<type></type>
+			<attacktype></attacktype>
+			<damage></damage>
+			<description></description>
+			<name></name>
+			<turns></turns>
+			<target></target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill></skill>
+			<class1></class1>
+			<class2></class2>
+			<invulnerable></invulnerable>
+		</skill1>
+		<skill2>
+			<type></type>
+			<attacktype></attacktype>
+			<damage></damage>
+			<description></description>
+			<name></name>
+			<turns></turns>
+			<target></target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill></skill>
+			<class1></class1>
+			<class2></class2>
+			<invulnerable></invulnerable>
+		</skill2>
+		<skill3>
+			<type></type>
+			<attacktype></attacktype>
+			<damage></damage>
+			<description></description>
+			<name></name>
+			<turns></turns>
+			<target></target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill></skill>
+			<class1></class1>
+			<class2></class2>
+			<invulnerable></invulnerable>
+		</skill3>
+		<skill4>
+			<type></type>
+			<attacktype></attacktype>
+			<damage></damage>
+			<description></description>
+			<name></name>
+			<turns></turns>
+			<target></target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill></skill>
+			<class1></class1>
+			<class2></class2>
+			<invulnerable></invulnerable>
+		</skill4>
+	</character>
+
+</chars> 

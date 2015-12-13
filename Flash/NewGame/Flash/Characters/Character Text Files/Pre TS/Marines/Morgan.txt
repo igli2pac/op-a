@@ -1,0 +1,26 @@
+Axe-Hand Morgan
+
+A: An Axe to Grind
+1 random, no cooldown
+Morgan readies his swing, making the next use of Executioner's 
+Swing deal 10 additional damage. Morgan will gain 5 destructable 
+defense.
+Strategic/Instant
+
+B: Executioner's Swing
+1 physical, no cooldown
+Morgan deals 20 piercing damage to one enemy, if that enemy took 40 or 
+more damage from this skill, they will be stunned for 1 turn.
+Weapon/Melee/Instant
+
+C: Hostage Situation
+1 haki 1 random, 3 cooldown
+Morgan takes an enemy hostage, for the next 2 turns, all skills
+used on Morgan will be reflected to that enemy. This skill will
+end if the enemy becomes invulnerable.
+Strategic/Control
+
+D: Axe Block
+1 random, 4 cooldown
+This skill makes Morgan invulnerable for 1 turn.
+Strategic/Instant

@@ -1,0 +1,28 @@
+Boa Hancock
+
+A: Mero Mero Mellow
+1 Devil fruit, 3 cooldown
+The next turn, the targeted enemy will be stunned for 2
+turns and gain 50 damage reduction, if that enemy beforms a
+non-strategic skill they will instead take 20 damage and 
+this skill will end.
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+B: Slave Arrow
+1 devil fruit 1 haki, 3 cooldown
+All enemies will take 15 damage and will be stunned for
+2 turns next turn, stunned enemies will gain 50 damage 
+reduction unless they use a non-strategic skill.
+If they do beform a non-strategic skill, this skill wil end 
+and weill deal 10 damage to those enemies.
+Devil fruit/Ranged/Instant/Unique*Devil Fruit
+
+C: Perfume Femur
+1 devil fruit, no cooldown
+Boa Hancock deals 20 piercing damage to an enemy.
+Physical/Melee/Instant
+
+D: Charm
+1 random, 4 cooldown
+Boa Hancock becomes invulnerable for 1 turn.
+Strategic/Instant

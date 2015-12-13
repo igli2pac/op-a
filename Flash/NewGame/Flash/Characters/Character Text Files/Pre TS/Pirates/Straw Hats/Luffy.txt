@@ -1,0 +1,26 @@
+Luffy D. Monkey
+
+A: Gomu Gomu no Pistol
+1 Devil fruit, no cooldown
+Luffy stretches his arm for his signature ability dealing
+25 damage to one enemy.
+Physical/Ranged/Instant/Unique*Devil fruit
+
+B: Gomu Gomu no Gatling
+1 Devil Fruit 1 Random, 2 cooldown
+Luffy sends out a wave of pistols dealing 15 damage each
+turn for 2 turns to all enemies, if Luffy has less than
+60 health then this skill will deal an additional 5 damage
+Physical/Ranged/Action/Unique*Devil fruit
+
+C: Gear Second
+1 Devil Fruit 1 Willpower, 3 cooldown
+Luffy enters Gear Second, increasing the damage of his
+attacks by 10 for 3 turns, additionally Luffy gains 1
+Devil Fruit energy and 20 destructable defense.
+Strategic/Instant/Unique*Devil fruit
+
+D: Gomu Gomu no Fusen
+1 random, 4 cooldown
+This skill makes Luffy invulnerable for 1 turn.
+Strategic/Instant/Unique*Devil fruit

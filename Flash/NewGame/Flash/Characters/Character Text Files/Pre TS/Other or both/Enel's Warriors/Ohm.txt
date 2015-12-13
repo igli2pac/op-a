@@ -1,0 +1,35 @@
+Ohm
+
+A1: Ordeal of Iron
+1 random, no cooldown
+Allows Ohm to use his other abilities, becomes Eisen Whip 
+after use, also, anytime an opponent uses a skill, that enemy is dealt 5 
+piercing weapon damage.
+Strategic/Instant/Unique
+
+A2: Eisen Whip
+1 weapon 1 random, no cooldown
+Ohm slashes at an opponent with his cloud sword dealing 35
+damage to that character, if that character took damage 
+from Ordeal of Iron last turn then Eisen Whip deals piercing damage.
+Weapon/Ranged/Instant
+
+B: Holy - Martial Arts
+1 weapon, 3 cooldown
+Ohm rides his giant Dog, Holy, while it uses martial arts, one enemy will 
+be dealt 15 damage each turn for 2 turns and Ohm will gain 20 damage 
+reduction. This skill will end if an opponent uses a strategic skill.
+Weapon/Ranged/Action
+
+C: Eisen Fleuret
+2 weapon, 4 cooldown
+Ohm forms his blade into a spear and tries to pierce the heart of an 
+enemy, next turn that enemy will be dealt 60 piercing damage. This skill
+can only be used on an enemy that was dealt damage by Ordeal of Iron last
+turn.
+Weapon/Ranged/Control
+
+D: Eisen Back
+1 random, 4 cooldown
+Ohm becomes invulnerable for 1 turn.
+Strategic/Instant

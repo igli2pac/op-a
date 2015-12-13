@@ -1,0 +1,31 @@
+Pearl
+
+A: Pearl Present
+1 physical, no cooldown
+Pearl punches an enemy with one of his shields, dealing 15 damage
+and gaining destructable defense equal 5 times the amount of enemies
+alive.
+Physical/Melee/Instant
+
+B: Pearl Close
+1 physical 1 random, no cooldown
+Pearl crushes an enemies head with his shields like a cymbal,
+dealing 30 damage and gaining 20 DD.
+If Pearl has over 50 DD this skill will also stun for 1 turn.
+Physical/Melee/Instant
+
+C: Fire Pearl Daitokuten
+1 haki 1 random, 5 cooldown
+Can only be activated if Pearl has less than full health.
+Pearl lights himself on fire applying an affliction to any enemy he 
+attacks dealing 5 affliction damage to them each turn for 3 turns.
+Any enemy that uses a melee or physical move on Pearl during this time
+will also be applied this affliction.
+Pearl will also gain 10 DD every turn.
+This skill lasts 3 turns.
+Strategic/Instant *Affliction
+
+D: Pearl Shields
+1 random, 4 cooldown
+This skill makes Pearl invulnerable for 1 turn
+Strategic/Instant

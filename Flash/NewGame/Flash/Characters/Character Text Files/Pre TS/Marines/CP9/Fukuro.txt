@@ -1,0 +1,29 @@
+Fukuro
+
+A: Soru "Tekkai Dama"
+1 Physical, 1 cooldown
+Combining The Tekkai and Soru techniques Fukuro flies towards an enemy 
+dealing 15 damage ignoring afflictions for 2 turns. 
+Cannot be used during Jugon Ogi: "Fukuro Dataki".
+Physical/Melee/Instant
+
+B: Jugon
+1 Physical 1 random, 1 cooldown
+Fukuro uses the Shigan technique with a full fist, one enemy will be 
+dealt 30 damage and if Fukuro deals damage to that enemy during the next
+3 turns, they will be stunned for 1 turn. This skill renews.
+Physical/Melee/Instant
+
+C: Jugon Ogi: "Fukuro Dataki"
+1 Physical 1 random, 4 cooldown
+Combining Soru and Shigan, Fukuro attacks one enemy from 
+all angles dealing 20 damage to them each turn and 
+gaining 15 damage reduction for 3 turns. During this time
+Fukuro cannot use Soru "Tekkai Dama". Can be interrupted
+by stuns.
+Physical/Melee/Action
+
+D: Kami-e "Slime"
+1 Random, 4 cooldown
+Fukuri uses a special version of Kami-E to become invulnerable for 1 turn.
+Strategic/Instant

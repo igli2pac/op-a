@@ -1,0 +1,28 @@
+Galdino Mr.3
+
+A: Candle Lock
+1 Devil fruit, 1 cooldown
+Mr.3 stuns an enemy for 1 turn. That enemy will recieve 5 extra 
+damage from Mr.3's skills next turn.
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+B: Doru Doru Arts: Mori
+1 devil fruit 1 random, 1 cooldown
+Mr.3 pierces an enemies body with a spear, dealing 35 damage
+and stunning them if they are affected by Giant Candle Service
+Set.
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+C: Giant Candle Service Set
+1 devil fruit 1 weapon, 3 cooldown
+For 5 turns, every turn an enemy doen't use a skill they will
+be dealt 5 affliction damage and have their nonaffliction damage
+reduced by 5 for as long as this skill is active.
+This skill will not stack but will refresh if used again.
+Devil fruit/Ranged/Action/UNqiue*Devil fruit
+
+D: Candle Wall
+2 random, 2 cooldown
+Mr.3 and all his allies gain 30 DD, this DD will disappear if
+Mr.3 dies.
+Devil fruit/Instant/Unique*Devil fruit

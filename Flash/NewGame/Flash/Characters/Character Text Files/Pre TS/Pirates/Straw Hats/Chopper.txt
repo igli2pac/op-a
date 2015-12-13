@@ -1,0 +1,28 @@
+Tony Tony Chopper (Might be the real base)
+
+A: Doctor Chopper
+1 willpower, no cooldown
+Chopper applies first aid to an ally restoring 20 health
+and removing all afflictions.
+Strategic/Instant
+
+B: Heavy Gong
+1 physical, no cooldown
+Chopper transforms into his human form to deliver a huge
+blow, dealing 15 damage to that enemy. Chopper will gain
+5 permanent DD.
+Physical/Melee/Instant
+
+C: Rumble Ball
+1 random, 5 cooldown
+Chopper eats one of his rumble balls increasing his combat
+ability tremendiously, for 3 turns Heavy Gong will also
+stun that opponent for 1 turn and Doctor Chopper will heal an
+additional 10 health.
+Also Chopper ignore stun effects during this time.
+Strategic/Instant/Unique
+
+D: Quick Transform
+1 random, 4 cooldown
+This ability makes Chopper invulnerable for 1 turn.
+Strategic/Instant/Unique*Devil fruit

@@ -1,0 +1,32 @@
+Miss Doublefinger, Paula
+
+A: Sea Urchin Stinger
+1 devil fruit 1 random, 3 cooldown
+Paula puffs up her hair like sea urchin and charges at her enemies. Paula
+will deal 10 damage each turn to each enemy for 3 turns. During this time,
+Paula cannot use any other skills except Stinger Hedgehog.
+Physical/Melee/Instant/Unique*Devil fruit
+
+B: Stinger Finger
+1 devil fruit, no cooldown
+Paula strikes an enemy dealing 20 damage to her target. This skill
+ignores destructable defense.
+Physical/Melee/Instant/Unique*Devil fruit
+
+C: Toge Toge Doping
+1 devil fruit 1 random, 4 cooldown
+Paula stings both of her shoulders and pumps her arms to an
+incredible size, for 4 turns Stinger Finger will deal an
+additional 10 damage and stun the targets nonstrategic skills for 1 turn.
+Paula cannot use her other skills except for Stinger Finger
+during this time.
+Strategic/Instant/Unique*Devil Fruit
+
+D: Stinger Hedgehog
+1 devil fruit 1 random, 4 cooldown
+Paula curls up her body to a spiky ball. For 4 turns, Sea Urchin
+Stinger will deal an additional 5 damage and Paula will be 
+invulnerable to melee skills.
+Paula cannot use other skills except Sea Urchin Stinger during
+this time.
+Strategic/Instant/Unique*Devil Fruit

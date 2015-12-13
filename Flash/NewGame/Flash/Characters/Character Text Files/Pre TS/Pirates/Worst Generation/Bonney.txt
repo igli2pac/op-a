@@ -1,0 +1,42 @@
+Jewelry Bonney
+
+A: Age Regression
+1 devil fruit 1 random, 3 cooldown
+Bonney turns one enemy into a small child, that enemy will receive
+10 extra damage from nonaffliction skills and will have their
+skills replaced with "Wail" for 2 turns. This skill cannot
+be ignored. This skill cannot be used on an enemy affected by 
+"Age Progression".
+Physical/Ranged/Instant/Unique*Devil fruit
+
+A2: Wail
+1 random, no cooldown
+This character tries to wail on an enemy dealing 15 damage to a
+random enemy.
+Physical/Melee/Instant
+
+B: Age Progression
+1 devil fruit 1 random, 3 cooldown
+Bonney turns one enemy into an old geezer, one enemy will have
+their nonaffliction damage decreased by 10 as well as taking
+10 affliction damage each turn for 3 turns. If that enemy uses
+a nonstrategic skill during this time they will be dealt 10
+affliction damage. This skill cannot be used on an enemy affected
+by "Age Regression". This skill cannot be ignored.
+Physical/Ranged/Instant/Unique*Devil fruit
+
+C: Neverending Hunger
+2 random, 2 cooldown
+Bonney starts chewing down on endless amounts of food regaining 5 
+health each turn. Any turn Bonney isn't dealt damage she regains
+5 extra health. This skill is permanent.
+This skill can be used while active to regain 30 health.
+Strategic/Instant
+
+D: Child Tackle
+1 random, 5 cooldown
+Bonney reverts to a more childlike state and tackles an ally out
+of danger. This skill makes both Bonney and an ally invulnerable
+for 1 turn. If no allies are alive this skill will cap all total 
+damage dealt to Bonney to 40 for 1 turn instead.
+Strategic/Instant/Unique

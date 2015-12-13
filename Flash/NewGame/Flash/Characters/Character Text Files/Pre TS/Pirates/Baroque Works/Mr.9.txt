@@ -1,0 +1,30 @@
+Mr.9
+
+A: Nekketsu Nine Konjo Bat
+1 weapon, 3 cooldown
+Using his two bats and fast acrobatics, Mr.9 attacks an enemy dealing
+10 damage each turn for 3 turns. During this time Mr.9 gains 10 damage 
+reduction and that enemy will lose a random energy if they use a new skill
+on Mr.9.
+Weapon/Melee/Action
+
+B: Kattobae Shikomi Bat
+1 weapon, 1 cooldown
+Mr.9's bats shoots out a chain to catch an enemy. That enemy will be 
+stunned for 1 turn and take 10 more damage from physical and weapon 
+skills.
+Weapon/Ranged/Instant
+
+C: Break Out
+2 random, 4 cooldown
+Mr.9 return to battle dramaticly, for 2 turns, if Mr.9 would be dealt
+lethal damage by an opponents attack he will instead go to 5 health and
+deal 20 damage* to that opponent. This skill is invisible until it ends
+or is triggered.
+Strategic/Instant
+*Weapon/Melee/Instant
+
+D: Bat Block
+1 random, 4 cooldown
+This skill makes Mr.9 invulnerable for 1 turn.
+Strategic/Instant

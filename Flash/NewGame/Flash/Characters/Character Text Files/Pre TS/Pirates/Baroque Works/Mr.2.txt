@@ -1,0 +1,36 @@
+Bentham Bon Kurei Mr.2
+
+A1: Mane Mane Memory
+1 devil fruit, 2 cooldown
+Using his devil fruit, Bon Kurei will assume the appearance of
+one character, for the next 2 turns, Mane Mane Memory will become a 
+random nonunique skill of that enemy. Bon Kurei cannot use "Ano Fuyu no 
+Sora no Memoir" or "Ano Sabaku no Kuni no Memoir" during this time.
+This skill can be used on both enemies and allies.
+If that character has no unique skills, Mr.2 will reflect all newly
+used skills on him to that character instead (And this skill will go
+on cooldown), during this alternate effect Mr.2 cannot use any other 
+skills.
+Physical/Melee/Instant/Unique*Devil fruit
+
+A2: Copy
+XXXX
+This skill is whatever Bon Kurei transformed into.
+XXXX
+
+B: Ano Fuyu no Sora no Memoir
+1 physical, no cooldown
+Bon Kurei deals 20 damage to an opponent, next turn that 
+enemy will be dealt an additional 10 damage.
+Physical/Melee/Instant
+
+C: Ano Sabaku no Kuni no Memoir
+1 physical 1 haki, no cooldown
+Bon Kurei deals 40 damage to one character. If both allies are
+dead or stunned that enemy will also be stunned for 1 turn.
+Physical/Melee/Instant
+
+D: Okama Dash
+1 random, 4 cooldown
+This skill makes Bon Kurei invulnerable for 1 turn.
+Strategic/Instant

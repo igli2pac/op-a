@@ -1,0 +1,53 @@
+Gekko Moriah
+
+A: Brick Bat
+1 Devil Fruit 1 random, 2 cooldown.
+Using his shadow Doppelman, Gekko deals 10 damage to every
+opponent each turn for 3 turns, this skill stacks. 
+Devil Fruit/Ranged/Action/Unique*Devil fruit
+
+B: Shadow Steal - Rise of Dawn
+2 Devil Fruit, 2 cooldown
+Moriah takes away the shadow of an enemy, that enemy will
+be doomed and will die 4 turns after being affected.
+This skill will end if Moriah is killed.
+Physical/Melee/Instant/Unique*Devil fruit
+
+C: Shadow's Asgard
+2 Devil Fruit 1 random, no cooldown
+Moriah absorbs all of his shadows, growing huge and gaining
+a new moveset permanently. All of Moriahs moves will be 
+replaced, Brick Bat will end if active. Moriah will gain 60 permanent DD 
+and 10 damage reduction.
+Strategic/Instant/Unique*Devil fruit
+
+D: Kagemusha
+1 random, 4 cooldown
+Moriah becomes invulnerable for 1 turn.
+Strategic/Instant/Unique*Devil fruit
+
+
+During Shadow's Asgard:
+
+A: Black Box
+1 Devil Fruit 1 random, 4 cooldown
+Moriah traps an opponent in a box of bats, that enemy will
+be stunned for 2 turns and will be invulnerable to friendly moves.
+Devil Fruit/Ranged/Instant/Unique*Devil fruit
+
+B: Brick Bat - Asgard
+2 Devil Fruit, 2 cooldown
+All enemies are dealt 20 damage each turn for 2 turns. During this time, 
+Moriah will ignore non-damage effects.
+Devil Fruit/Ranged/Action/Unique*Devil fruit
+
+C: Giant Punch
+2 Physical, no cooldown
+Moriah smashes an opponent dealing 35 damage to them, if that enemy is 
+affected by Black Box; this skill deals 50 piercing damage instead.
+Physical/Melee/Instant
+
+D: Immense Size
+1 random, 2 cooldown
+Moriah gains 20 DD
+Strategic/Instant

@@ -1,0 +1,26 @@
+Captain Kuro
+
+A: Shakushi
+1 haki 1 weapon, 5 cooldown
+Captain Kuro moves at a rapid pace slashing up everyone within
+striking distance. All other characters take 10 damage each 
+turn and Kuro will be invulnerable for 3 turns
+Weapon/Melee/Control
+
+B: Murder Slash
+1 weapon, 1 cooldown
+Captain Kuro slashes an enemy, dealing 20 damage to that
+enemy and stunning them for 1 turn if their health becomes lower than 
+50. 
+Weapon/Melee/Instant
+
+C: Murderous Intent
+1 haki, 3 cooldown
+Captain Kuro gains a buff, making all his moves deal 20 more 
+damage for each dead ally for 3 turns.
+Strategic/Instant
+
+D: Cool Appearance
+1 random, 4 cooldown
+Captain Kuro becomes invulnerable for 1 turn.
+Strategic/Instant

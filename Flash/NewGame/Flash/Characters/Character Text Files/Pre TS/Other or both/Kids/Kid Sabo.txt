@@ -1,0 +1,26 @@
+Kid Sabo
+
+A: Pipe Attack
+1 weapon, no cooldown
+Kid Sabo is great at using a pipe for a weapon. One enemy will be dealt
+20 damage, if that enemy uses a new skill next turn, they will take 10 
+additional damage from weapon and physical skills for 1 turns.
+Weapon/Melee/Instant
+
+B: Pirate Fund
+1 random, no cooldown
+Kid Sabo counts all the money that himself and his allies has collected.
+Kid Sabo and his allies will heal 5 health. This skill can be used any 
+amount of times each turn. 
+Strategic/Instant
+
+C: A Nobles Oath
+2 random, 4 cooldown
+Kid Sabo shares a cup of sake with his allies. Kid Sabo and his allies 
+will ignore stuns and gain 5 destructable defense each turn for 3 turns.
+Strategic/Instant
+
+D: Battlecry
+1 random, 4 cooldown
+This skill makes Kid Sabo invulnerable for 1 turn.
+Strategic/Instant

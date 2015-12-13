@@ -1,0 +1,29 @@
+Onigumo
+
+A: 8-Arms of Retribution
+1 devil fruit 1 random, 2 cooldown
+Onigumo goes in to attack with his eight swords, for 2 turns, all enemies
+will be dealt 15 damage each turn and during this time "The Trapping Web of
+Justice" will have no cooldown.
+Weapon/Melee/Action/Unique*Devil fruit
+
+B: The Trapping Web of Justice
+1 random, 3 cooldown
+Onigumo detains an enemy with kairoseki handcuffs, that enemy will have 
+their devil fruit abilities stunned for 2 turns. If that enemy had no devil
+fruit abilities this skill will stun for 1 turn instead.
+Strategic/Instant
+
+C: Partial Spider Form
+1 random, 3 cooldown
+Onigumo transforms the lower part of his body into that of a spiders to 
+gain 6 additional arms. This skill lasts 3 turns and during this time 
+"8-Arms of Retribution" will have it's duration increased by 1.
+During this time, if Onigumo uses "The Trapping Web of Justice" on an enemy
+they will also have their nonstrategic damage reduced by 5 permanently.
+Strategic/Instant/Unique*Devil fruit
+
+D: Cold-Blooded Captain
+1 random, 4 cooldown
+This skill makes Onigumo invulnerable for 1 turn.
+Strategic/Instant

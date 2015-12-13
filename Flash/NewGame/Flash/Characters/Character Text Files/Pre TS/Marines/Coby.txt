@@ -1,0 +1,29 @@
+Coby
+
+A: Trained Kick
+1 physical 1 random, no cooldown
+Coby kicks an opponent, one enemy will be dealt 30 damage and will have
+the cooldown of newly used skills increased by 1 for 1 turn.
+Physical/Melee/Instant
+
+B: Fruitless Training
+1 random, 4 cooldown
+For 3 turns, at the end of each turn. If you have no more energy, Coby
+will restore 10 health and the next use of "Trained Kick" will deal 10
+more damage. (This effect happens as the last thing before sending the
+turn over to your opponent)
+Strategic/Instant
+
+C: Awakened Kenbunshoku Haki
+no cost, 2 cooldown
+Everytime a character dies, Coby will gain 10 permanent damage reduction
+And if both of Coby's allies are dead "Trained Kick" will deal 10 more
+damage.
+This skill is permanent after it has been activated and can be activated
+while active to gain 10 damage reduction for 1 turn.
+Strategic/Instant 
+
+D: Soru
+1 random, 4 cooldown
+This skill makes Coby invulnerable for 1 turn.
+Strategic/Instant

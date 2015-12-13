@@ -1,0 +1,33 @@
+Roronora Zoro
+
+A: Oni Giri
+1 Weapon, no cooldown
+Deals 20 damage to one enemy, this skill will deal 5 more
+damage each time it has been used.
+Weapon/Melee/Instant
+
+B: Hyakuhachi Pound Ho
+1 Weapon 1 Physical, 1 cooldown
+Zoro deals 30 damage to an opponent and removes 1 random
+energy from them, this skill will deal an additional 5
+damage each time it has been used.
+Weapon/Ranged/Instant
+
+C1: Ichi-Ni Gorilla
+1 haki, 3 cooldown
+Zoro pumps the size of his arms, increasing the damage of
+his moves by 10 for 2 turns and gaining 1 random energy.
+After use this skill becomes Nigori-Zake for 1 turn.
+Strategic/Instant
+
+C2: Nigori-Zake
+1 Weapon 1 random, no cooldown
+A special strike Zoro only uses after both Gorillas,
+this skill deals 30 damage to one enemy and makes that
+enemy ignore all helpful effects for 2 turn.
+Weapon/Melee/Instant
+
+D: Parry
+1 random, 4 cooldown
+Zoro becomes invulnerable for 1 turn.
+Strategic/Instant

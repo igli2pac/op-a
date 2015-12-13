@@ -1,0 +1,26 @@
+Crocodile
+
+A: Desert Incierro
+1 Devil fruit 1 random, 5 cooldown
+Grabbing an enemy and sucking out their life, Crocodile deals 10 affliction 
+damage to an enemy each turn for 2 turns and steals 1 random energy. That 
+enemy will have their nonaffliction damage reduced by 5 for 2 turns.
+Physical/Melee/Control/Unique*Affliction*Devil fruit
+
+B: Ground Death
+2 Devil Fruit 1 random, 4 cooldown
+Crocodile sucks out the water of everything nearby dealing 10 affliction 
+damage to all opponents, reducing their non-affliction damage by 10 and 
+increasing his own affliction damage by 5 each turn for 3 turns.
+Devil Fruit/Ranged/Control/Unique*Affliction*Devil fruit
+
+C: Barjan
+1 Devil Fruit, 1 cooldown
+Crocodile makes a crescent shaped trail of sand that sucks enemies dry, 
+dealing 10 affliction damage to one enemy and removing 1 random energy.
+Devil Fruit/Ranged/Instant/Unique*Affliction*Devil fruit
+
+D: Sand Body
+1 random, 4 cooldown
+Crocodile becomes invulnerable to physical and weapon skills for 2 turns.
+Strategic/Instant/Unique*Devil fruit

@@ -1,0 +1,37 @@
+Shura
+
+A1: Ordeal of String
+1 random, no cooldown
+Allows Shura to use his other moves, after use becomes
+Heat Javelin permanently, also, enemies who beform an 
+offensive action on Shura cannot become invulnerable for 
+2 turn.
+Strategic/Instant/Unique
+
+A2: Heat Javelin
+1 weapon 1 random, 1 cooldown
+Shura pierces and burns an enemy dealing 30 damage to 
+them, also that enemy will take 5 affliction damage each
+turn for 3 turns.
+Weapon/Melee/Instant/*Affliction
+
+B: Fuza - Fire Breath
+1 weapon, 2 cooldown
+Shura makes his giant bird breathe fire from the Flame 
+Dial inside its mouth dealing 10 affliction damage to each opponent
+and applying an affliction dealing 5 affliction damage to 
+them each turn for 2 turns.
+Weapon/Ranged/Instant/*Affliction
+
+C: Ordeal of String - Trap
+1 weapon 1 random, 2 cooldown
+Shura traps an enemy in string, stunning their non-strategic
+moves for 2 turns. The trapped enemy takes 10 more 
+non-affliction damage during this time. This skill can only be used 
+on an enemy affected by Ordeal of String.
+Weapon/Ranged/Control
+
+D: Fuza Dive
+1 random, 4 cooldown
+Shura becomes invulnerable for 1 turn.
+Strategic/Instant

@@ -1,0 +1,27 @@
+Wapol
+
+A: Yukigesho
+1 devil fruit, 4 cooldown
+For 2 turn, if Wapol is attacked by a new non-strategic non-unique skill, 
+Wapol will deal 20 damage to that character and copy that skill for
+3 turns, turning this skill into that one. This skill is invisible 
+until it ends or is triggered.
+Physical/Melee/Instant/Unique*Devil fruit
+
+B: Arm Cannon
+1 devil fruit, no cooldown
+Wapol fires his cannon arm at an opponent dealing 20
+damage to that character. For 2 turns this skill will deal an 
+additional 5 damage.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+C: Wapol House
+1 devil fruit 1 random, 5 cooldown
+Wapol becomes a house, changing the cost of Arm Cannon to 
+1 random and giving him 15 DD every turn for 3 turns.
+Strategic/Instant/Unique*Devil fruit
+
+D: Slim-Up Wapol
+1 random, 4 cooldown
+This skill makes Wapol invulnerable for 1 turn.
+Strategic/Instant/Unique*Devil fruit

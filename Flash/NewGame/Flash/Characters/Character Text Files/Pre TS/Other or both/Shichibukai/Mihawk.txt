@@ -1,0 +1,32 @@
+Dracule Mihawk
+
+A: Kokuto Issen
+1 weapon 1 random, no cooldown
+Mihawk makes a vertical slash, dealing 30 damage to one enemy.
+If that enemy had full health this skill will also stun that enemy.
+Weapon/Ranged/Instant
+
+B: Kokuto Kogetsu
+1 weapon 1 haki, 1 cooldown
+Mihawk launches a horisontal wave at the enemy team, all enemies 
+will be dealt 25 damage and any enemy that drops below 60 health
+by this effect will have their nonstrategic skills stunned for
+1 turn.
+Weapon/Ranged/Instant
+
+C: Kogatana
+1 haki, 3 cooldown
+Mihawk draws his smallest blade for use against weak foes, Mihawk
+will ignore all skills used on him by enemies with less than 30
+health. If an enemy with less than 60 health uses a skill on 
+Mihawk he will deal 10 damage* to them.
+This skill lasts 3 turns or until Mihawk becomes stunned.
+Strategic/Control
+*Weapon/Melee/Instant
+
+D: Hawk eyes
+1 random, 4 cooldown
+For 1 turn, Mihawk will ignore all enemy skills used on him,
+if a stun was ignored this way, Mihawk will gain 1 weapon energy.
+This skill is invisible.
+Strategic/Instant

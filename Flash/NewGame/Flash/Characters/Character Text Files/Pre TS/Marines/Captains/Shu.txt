@@ -1,0 +1,32 @@
+Shu
+
+A: Joint Rust
+1 devil fruit, 2 cooldown
+Shu rusts one enemies arms, dealing 5 affliction damage and 
+reducing their physical damage by 10 every turn for 3 turns.
+Physical/Melee/Action/Unique*Devil fruit
+
+B: Body Rust
+1 devil fruit 1 physical, 4 cooldown
+This skill can only be used on an enemy with 75 or less health.
+One enemy will be dealt 25 affliction damage each turn for 3 turns.
+That enemies physical skills will deal 20 damage less for the duration
+of this skill.
+This skill will also end if Shu is dealt 40 or more damage in one turn or
+is stunned.
+Physical/Melee/Control/Unique*Devil fruit
+
+C: Sword Rust
+1 devil fruit, 2 cooldown
+Shu stuns an enemies weapon skills for 2 turns.
+Devil fruit/Melee/Instant/Unique*Devil fruit
+
+D: Rust Human
+no cost, no cooldown
+After activation Shu will gain a permanent buff. Everytime
+an enemy uses a melee weapon attack on him, their weapon damage 
+will be reduced by 10 permanently. (This applies before damage is 
+dealt, if possible) Also any damage dealt to Shu by ranged weapon
+skills are reduced by 10.
+This skill can only be used once.
+Strategic/Instant/Unique*Devil fruit

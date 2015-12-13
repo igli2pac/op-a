@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Owner\My Documents\Player.IO\Flash\NewGame\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

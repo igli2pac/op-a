@@ -1,0 +1,28 @@
+Kid Ace
+
+A: Close Combat Expert
+1 physical, no cooldown
+Ace attacks an enemy. One enemy will be dealt 10 damage each turn for 1
+turn. This skill will last one more turn each time it has been used for
+2 turns. (eq. Max duration 3 if the skill has been used three times in
+a row)
+Physical/Melee/Action
+
+B: Rubber Propelled Ace
+1 physical 1 weapon, 1 cooldown
+By being slingshotted forward by Luffy, Ace can attack with an incredible
+speed. One enemy will be dealt 40 damage and Ace will become invulnerable
+for 1 turn.
+Weapon/Melee/Instant
+
+C: A Strays Oath
+2 random, 4 cooldown
+Kid Ace shares a cup of sake with his allies. Kid Ace and his allies will
+gain 5 damage reduction and ignore affliction damage dealt to them for
+3 turns.
+Strategic/Instant
+
+D: Battlecry
+1 random, 4 cooldown
+The skill makes Kid Ace invulnerable for 1 turn.
+Strategic/Instant

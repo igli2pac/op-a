@@ -1,0 +1,27 @@
+Nero
+
+A: Flintlock Rapid Fire
+1 weapon, 1 cooldown
+Nero fires his guns at an enemy, Nero deals 15 damage to one enemy each
+turn for 2 turns, if that enemy uses a new strategic skill during this
+time, this skill will refresh.
+Weapon/Ranged/Action
+
+B: Rankyaku
+1 physical, no cooldown
+Nero kicks some air at an opponent, one enemy will dealt 20 piercing 
+damage and if "Geppou" is active Nero will become invulnerable for 1
+turn.
+Weapon/Ranged/Instant
+
+C: Recovery Geppo
+1 random, 3 cooldown
+For 1 turn, if Nero would be stunned, he will instead ignore stuns for 3
+turns and gain 20 damage reduction. This skill is invisible until it
+ends or is triggered.
+Strategic/Instant
+
+D: Kami-e
+1 random, 4 cooldown
+This skill makes Nero invulnerable for 1 turn.
+Strategic/Instant

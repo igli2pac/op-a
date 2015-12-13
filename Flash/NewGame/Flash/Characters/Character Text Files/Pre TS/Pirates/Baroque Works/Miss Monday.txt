@@ -1,0 +1,28 @@
+Miss Monday
+
+A: Kairiki Meriken
+1 physical 1 random, no cooldown
+Miss Monday equips some brassknuckles and punches an enemy, one enemy
+will be dealt 30 damage. This skill will deal an additional 10 damage if
+that enemy is beforming an action or control skill.
+Physical/Melee/Instant
+
+B: Superhuman Stranglehold
+1 physical, 3 cooldown
+Miss Monday grabs an opponent by the throat, one enemy will recieve 5
+affliction damage each turn for 3 turns and recieve 10 extra damage
+from Miss Mondays other skills.
+Physical/Melee/Control*Affliction
+
+C: Superhuman Batter
+2 physical, 1 cooldown
+Miss Monday hits an opponent with a ladder, shattering it, dealing 40 
+damage. For 3 turns, any enemy that uses a new skill that deals 25 or 
+more original damage will be dealt 10 damage*, this skill stacks.
+Weapon/Melee/Instant
+*Weapon/Ranged/Instantd
+
+D: Superhuman Log Block
+1 random, 4 cooldown
+This skill makes Miss Monday invulnerable for 1 turn.
+Strtegic/Instant

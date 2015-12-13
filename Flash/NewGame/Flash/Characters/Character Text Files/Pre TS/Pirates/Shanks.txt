@@ -1,0 +1,31 @@
+Shanks
+
+A: Ally Intercept
+1 random, no cooldown
+One of Shanks allies step in to take a shot. One enemy will be dealt 15
+damage and one random ally will recover 10 health.
+Weapon/Ranged/Instant
+
+B: Callous Attitude
+1 random, 4 cooldown
+Shanks laughts off any aggression, for 3 turns, Shanks will ignore all
+negative non-damage effect. This skill will end if one of Shanks allies
+are killed and will permanently increase Shanks's damage by 5. 
+This effect stacks.
+Strategic/Instant
+
+C: Haoshoku Haki
+1 haki 1 random, 4 cooldown
+For 2 turns, whenever an enemy stuns one of Shanks's allies that enemy 
+will also be stunned for 1 turn. If an enemy uses a skill that removes
+energy, Shanks will gain 1 energy. If an ally is killed during this time,
+Shanks will deal 25 damage* to the enemy that dealt lethal damage and 
+stun them for 1 turn.
+Strategic/Action*Haki
+
+D: Self Sacrifice
+1 random, 4 cooldown
+Shanks sacrifices himself for his allies. One ally will become 
+invulnerable for 1 turn. If no allies are alive this skill will make
+Shanks invulnerable for 1 turn instead.
+Strategic/Instant

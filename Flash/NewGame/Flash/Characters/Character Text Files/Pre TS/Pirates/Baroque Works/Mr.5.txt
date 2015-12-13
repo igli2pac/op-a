@@ -1,0 +1,28 @@
+Mr.5
+
+A: Nose Fancy Cannon
+1 devil fruit, 1 cooldown
+Mr.5 shoots a booger at an enemy dealing 20 damage to one enemy. 
+If that enemy takes damage the same turn, they will be stunned for 1 
+turn.
+Devil Fruit/Ranged/Instant*Devil fruit
+
+B: Zenshin Kibaku
+2 devil fruit, 4 cooldown
+Mr.5 grabs and blows up an enemy, Mr.5 stuns one enemy,
+the next turn, that enemy will take 60 piercing damage.
+This skill will end if Mr.5 is stunned, dies, that enemy becomes 
+invulnerable or Mr.5 receives 50 or more damage.
+Devil Fruit/Melee/Control*Devil fruit
+
+C: Breeze Breath Bomb
+1 devil fruit 1 random, 4 cooldown
+Mr.5 shoots his revolver at an enemy, that enemy will take
+30 damage and will be stunned for 2 turns if they take 
+damage the same turn.
+Devil Fruit/Ranged/Instant*Devil fruit
+
+D: Explosion Proof
+1 random, 4 cooldown
+Mr.5 becomes invulnerable for 1 turn.
+Strategic/Instant

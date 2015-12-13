@@ -1,0 +1,32 @@
+Inazuma
+
+A: Choki Choki no Mi
+1 random, 3 cooldown
+Inazume's devil fruit allows him/her to transform his/her hands into 
+scissors, for 4 turns, Inazume's moves will deal piercing damage and deal
+extra damage equal to 50% of the amount of total destructable defense on 
+all characters, rounded up to the nearest 5.
+Inazume can use his other skills during this time.
+This skill refreshes when used while active.
+Strategic/Instant/Unique*Devil fruit
+
+B: Keep Out
+1 devil fruit, no cooldown
+Inazume throws giant slaps of stone at an enemy, this skill will deal
+20 damage to one enemy.
+This skill cannot be used without "Choki Choki no Mi".
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+C: O Kanabashi
+2 random, 4 cooldown
+Inazume seals an entrance by using slaps of walls and floors, each turn
+for 3 turns, Inazume and his/her allies will gain 10 destructable defense.
+This destructable defense cannot be ignored.
+This skill can only be used during "Choki Choki no Mi" and will end if
+that skill ends.
+Strategic/Action/Unique*Devil fruit
+
+D: Calm Visage
+1 random, 4 cooldown
+This skill makes Inazume invulnerable for 1 turn.
+Strategic/Instant

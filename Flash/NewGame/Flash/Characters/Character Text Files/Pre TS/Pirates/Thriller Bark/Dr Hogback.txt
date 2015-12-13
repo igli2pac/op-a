@@ -1,0 +1,27 @@
+Dr. Hogback
+
+A: Disrespecful Kick
+1 random, no cooldown
+Hogback kicks one enemy, that enemy will be dealt 10 damage and if they
+are damaged by another skill this turn they will lose 1 random energy.
+Physical/Melee/Instant
+
+B: Doctoring
+2 random, 1 cooldown
+Hogback heals one ally, that ally will recove 30 health and will ignore
+stuns and energy removal effects for 2 turns. This effect refreshes.
+Strategic/Instant
+
+C: Tampering With the Dead
+3 random, 5 cooldown
+Dr. Hogback is the greatest doctor in the world, not even the dead is
+incurable. Dr. Hogback revives one dead ally, that ally will be returned
+to life with 50 health and have their nonaffliction damage permanently 
+reduced by 5. This skill can only be used on a dead ally and only once 
+per ally.
+Strategic/Instant/Unique
+
+D:
+1 random, 4 cooldown
+This skill makes Dr. Hogback invulnerable for 1 turn.
+Strategic/Instant

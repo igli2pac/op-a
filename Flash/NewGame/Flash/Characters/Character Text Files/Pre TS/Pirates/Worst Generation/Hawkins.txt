@@ -1,0 +1,29 @@
+Basil Hawkins
+
+A: Swords Judgement
+1 weapon, no cooldown
+Hawkins prepares his sword dealing 15 damage to target opponent
+and healing his team 10 health.
+Weapon/Melee/Instant
+
+B: Goma no So
+1 devil fruit, 3 cooldown
+Hawkins transforms into a giant scarecrow increasing his physical
+abilities. For 3 turns Sword's Judgement will deal an additional
+10 damage.
+When this skill is used, Basil will regain all of his voodoo
+dolls.
+Strategic/Instant/Unique*Devil fruit
+
+C: Voodoo Dolls
+no cost, no cooldown
+Basil Hawkins have a limited amount of voodoo dolls that protect
+him from harm. Hawkings targets an ally, whenever Hawkins receives
+damage next turn that damage will be redirected to that ally.
+This skill can be used a maximum of 3 times.
+Strategic/Instant/Unique*Devil fruit
+
+D: Fortune Telling
+1 random, 4 cooldown
+Hawkins becomes invulnerable for 1 turn.
+Strategic/Instant

@@ -1,0 +1,27 @@
+Traffalagar Law
+
+A: Room
+1 random, 2 cooldown
+Law creates a bubble for 4 turns, during this time, he 
+can use his other abilites.
+This skill will end if Law is stunned or killed.
+Strategic/Control/Unique*Devil fruit
+
+B: Emergency
+1 devil fruit 1 random, 3 cooldown
+Law manipulates the elements within Room, giving him
+a great advantage. Law becomes invulnerable for 2 turns
+and during this time, Shambles ignores invulnerability.
+Strategic/Action/Unique*Devil fruit
+
+C: Shambles
+2 devil fruit, no cooldown
+Law cuts his opponents to pieces, all enemies will have they nonstrategic
+skills stunned for 1 turn, and for 3 turns, if this skill is used again
+it will deal 50 damage. This effect refreshes.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+D: Emergency - Switch
+1 random, 3 cooldown
+This skill makes Law invulnerable for 1 turn.
+Strategic/Instant/Unique*Devil fruit

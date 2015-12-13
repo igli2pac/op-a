@@ -1,0 +1,32 @@
+Bartholomeo
+
+A: Hidden Barrier
+1 devil fruit, 3 cooldown
+Bartholomeo sets up an invisible barrier, for 1 turn Bartholomeo
+will reflect all physical skils used on him back to their owner and 
+he will ignore all nonphysical skills used on him. This skill is 
+invisible.
+Strategic/Instant/Unique*Devil Fruit
+
+B: Barrier Crash
+1 devil fruit, 1 cooldown
+Bartholomeo sends a barrier forward to strike an opponent, this 
+skill deals 20 damage and gives Bartholomeo 10 damage reduction
+for 2 turn. If "Hidden Barrier" or "Barrier" was used last turn
+this skills cooldown will be decreased by 1. This damage reduction stacks.
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+C: Taunt
+2 random, 5 cooldown
+Batholomeo's behaviour acts like a constant taunt towards everyone
+around him, for 3 turns all enemy skills used on Bartholomeo's 
+allies will be reflected to Bartholomeo. During this time, enemies
+strategic skills will be stunned.
+Strategic/Instant
+
+D: Barrier
+1 devil fruit 1 random, 4 cooldown
+Bartholomeo's devil fruit allows him to generate unbreakable 
+barriers, Bartholomeo will ignore all harmful skills used on him
+for 2 turns. If "Taunt" is active then all allies will gain 10 DD.
+Strategic/Instant/Unique*Devil fruit

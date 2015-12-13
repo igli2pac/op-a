@@ -1,0 +1,33 @@
+Blueno
+
+A: Tekkairin
+1 Physical, no cooldown
+Using a combination of Tekkai and Rankyaku, Blueno deals 25 damage to one
+enemy.
+Physical/Melee/Instant
+
+B: Trap Door
+1 Devil Fruit, 1 cooldown
+Blueno traps the opponents feet in the ground, stunning their 
+non-strategic skills for 1 turn. During this time, if that enemy uses 
+a strategic skill, Blueno will gain 1 devil fruit energy.
+Physical/Melee/Instant/Unique*Devil fruit
+
+C1: Kaiten Door
+2 Devil Fruit, no cooldown
+Blueno turns an enemy's head into a revolving door,
+that enemy will have their abilities replaced by Door Stop
+for 3 turns.
+Physical/Melee/Instant/Unique*DEvil fruit
+
+C2: Door Stop
+2 Physical, no cooldown
+The character stops their head from spinning, being able
+to move freely again.
+Strategic/Instant
+
+D: Air Door
+1 devil fruit 1 random, 5 cooldown
+Blueno hides his team, Blueno and all his allies become invulnerable for 
+1 turn.
+Strategic/Instant/Unique*Devil fruit

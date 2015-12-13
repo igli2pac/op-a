@@ -1,0 +1,29 @@
+Usopp
+
+A: Hi no Tori Boshi
+1 haki, 1 cooldown
+Usopp shoots a pheonix shaped fireball projectile against an enemy 
+dealing 20 damage and applying an affliction that deals 5 affliction 
+damage each turn for 3 turns. This affliction stacks.
+Weapon/Ranged/Instant/*Affliction
+
+B: Usopp Golden Pound
+1 haki, 1 cooldown
+Usopp uses a totally real 10 Ton hammer to wack an enemy, Usopp will 
+target an enemy, if that enemy uses a new strategic skill during the
+next turn they will recieve 30 damage and be unable to become invulnerable
+for 2 turn. This skill is invisible until it is triggered.
+Weapon/Melee/Instant
+
+C: Cho Kemuri Boshi
+2 random, 5 cooldown
+Usopp creates a smoke screen to escape, Usopp and his allies will become
+invulnerable for 1 turn. Also for 1 turn, "Hi no Tori Boshi" will deal
+piercing damage.
+Strategic/Instant
+
+D: Ketchup Boshi
+1 random, 4 cooldown
+Ussop plays dead, making him invulnerable for 2 turns. This skill will end
+if Usopp uses a new skill.
+Strategic/Instant

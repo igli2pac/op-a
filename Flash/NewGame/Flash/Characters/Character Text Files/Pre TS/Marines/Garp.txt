@@ -1,0 +1,31 @@
+Monkey D. Garp
+
+A: Ai aru Kobushi
+1 haki, no cooldown
+Garp punches an enemy with a haki inbued punch dealing 20 damage.
+This skill ignores all bonuses gained from devil fruit abilities, except
+destructable defense.
+Physical/Melee/Instant*Haki
+
+B: Genkotsu Giant Iron Meteor
+1 weapon 1 haki, 4 cooldown
+Garp throws a giant iron ball at the enemy team. The next turn all 
+enemies will be dealt 30 damage, the cost of their skills will be 
+increased by 1 random for 2 turns.
+Any characters that had destructable defense will be dealt an
+additional 15 damage and be stunned for 1 turn.
+Weapon/Ranged/Instant
+
+C: Genkotsu Ryuseigun
+1 weapon 1 random, 1 cooldown
+Garp throws 1000 cannonballs at the enemy team dealing 15 damage
+to each opponent each turn for 2 turns. Enemies dealt damage by
+this skill will be unable to become invulnerable for 1 turn.
+Weapon/Ranged/Action
+
+D: Old Man's Rest
+1 random, 4 cooldown
+This skill makes Garp invulnerable for 1 turn.
+If Garp used "Ai aru Kobushi" last turn this skill will also heal
+Garp 10 health.
+Strategic/Instant

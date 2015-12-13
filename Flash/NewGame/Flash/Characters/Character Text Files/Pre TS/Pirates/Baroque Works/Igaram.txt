@@ -1,0 +1,26 @@
+Igaram
+
+A: Igarappapa Bow Release
+No cost, 1 cooldown
+Igaram pulls in his bow, readying his hairguns. For 1 turn, one target 
+enemy can be targeted by "Igarappapa".
+Strategic/Instant
+
+B: Igarappapa
+1 weapon, no cooldown
+Igaram shoots his hidden guns at the opponent affected by "Igarappapa Bow
+Release", dealing 10 damage each turn permanently.
+This skill can be interrupted by stuns or Igaram dying.
+Weapon/Ranged/Control
+
+C: Igarappa
+1 random, 2 cooldown
+Igaram shoots his tuba, all enemies will be dealt 10 damage and for 1
+turn, any enemy that use a new harmful nonstrategic skill on Igaram will
+be stunned for 1 turn.
+Weapon/Ranged/Instant 
+
+D: Disguise
+1 random, 4 cooldown
+This skill makes Igaram invulnerable for 1 turn.
+Strategic/Instant

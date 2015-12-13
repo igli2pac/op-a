@@ -1,0 +1,27 @@
+Kid Luffy
+
+A: Inexperienced Gomu Gomu no Pistol
+1 devil fruit, 1 cooldown
+Kid Luffy uses his new devil fruit to launch his fist at something, one
+random enemy will be dealt 25 damage and be stunned. If Luffy recieved
+damage last turn this skill will also be randomised between allies.
+Physical/Ranged/Instant/Unique*Devil fruit
+
+B: Gomu Gomu no Tate
+1 randon, 3 cooldown
+Kid Luffy streches his fingers to increase his defense. For 2 turns,
+Kid Luffy gains 10 damage reduction and Inexperienced Gomu Gomu no Pistol
+will be able to target.
+Strategic/Instant/Unique*Devil fruit
+
+C: A Pirate's Oath
+2 random, 4 cooldown
+Kid Luffy shares a cup of sake with his allies. Kid Luffy and his allies
+will deal 5 more nonaffliction damage and will recover 5 health each turn.
+This effect lasts for 3 turns.
+Strategic/Instant
+
+D: Scared Escape
+1 random, 4 cooldown
+This skill makes Kid Luffy invulnerable for 1 turn.
+Strategic/Instant

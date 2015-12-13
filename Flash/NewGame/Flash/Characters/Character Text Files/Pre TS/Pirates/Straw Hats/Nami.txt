@@ -1,0 +1,24 @@
+Nami (Simple)
+
+A: Thunder Cloud
+1 random, no cooldown
+Nami swings her clima tact placing a Thunder Cloud stack on all enemies.
+Strategic/Instant
+
+B: Thunder Bolt Tempo
+1 weapon 1 random, no cooldown
+Nami deals 10 piercing damage to all enemies for each Thunder Cloud stack 
+on them. Then all Thunder Cloud stacks are removed from all enemies.
+Weapon/Ranged/Instant
+
+C: Thunder Lance Tempo
+2 weapon, no cooldown
+Nami deals 20 piercing damage to one enemy for each Thunder Cloud stack 
+on that enemy and stuns them for one turn. Removes all Thunder Cloud stacks 
+on that enemy after use.
+Weapon/Ranged/Instant
+
+D: Mirage Tempo
+1 random, 4 cooldown
+This skill makes Nami invulnerable for 1 turn.
+Strategic/Instant

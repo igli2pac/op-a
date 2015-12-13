@@ -1,0 +1,31 @@
+Absalom
+
+A: Shisha No Te
+1 weapon, no cooldown
+Absalom uses the two invisible bazookas from under his arms to shoot 
+an enemy. Absalom targets one enemy, if that enemy uses a new skill
+next turn they will be dealt 30 damage. If they don't this skill will 
+deal 15 damage instead. This skill is invisible until it ends.
+Weapon/Ranged/Instant
+
+B: Kaijin No Te
+1 physical, 4 cooldown
+Absaloms launches an invisible assault on one enemy. For 2 turns, one 
+enemy will have their first nonstrategic skill countered and if they 
+are countered this way, Absalom will deal 20 damage to them each turn
+for 2 turn*. The target of this skill is invisible.
+Physical/Melee/Instant*Action
+
+C: Skating
+1 devil fruit 2 random, 5 cooldown
+Absalom turns invisible, for 4 turns no enemy can target Absalom except
+with skills that target all enemies. Absaloms skills will ignore 
+invulnerability during this time.
+Strategic/Instant/Unique*Devil fruit
+
+D: Mixed Body
+1 random, 4 cooldown
+Absaloms strange body makes him much tougher than a regular human, 
+for 1 turn, Absalom will gain 50 destructable defense and will gain 1 
+random energy if he is dealt damage. This skill is invisible to the enemy.
+Strategic/Instant

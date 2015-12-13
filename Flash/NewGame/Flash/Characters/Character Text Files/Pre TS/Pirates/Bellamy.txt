@@ -1,0 +1,32 @@
+Bellamy
+
+A: Spring Snipe
+1 devil fruit 1 random, no cooldown
+Bellamy flings himself at an opponent with his incredible speed, Bellamy
+will deal 30 damage to one opponent, if Spring Hopper is active then 
+this skill will also stun that enemy for 1 turn. This skill will deal 
+10 more damage for each Pressure counter Bellamy has and all Pressure
+counters are removed afterwards.
+Physical/Melee/Instant/unique*Devil fruit
+
+B: Spring Hopper
+2 devil fruit, 5 cooldown
+Bellamy will become invulnerable for 5 turns, this invulnerability will
+end for 1 turn if Bellamy uses a new skill except "Spring Pressure".
+Strategic/Instant/Unique*Devil fruit
+
+C: Spring Pressure
+1 random, no cooldown
+Bellamy increases the pressure of his spring legs, Bellamy will gain 1
+Pressure counter. This skill will give additional characteristics to 
+Spring Snipe equal to the amount of Pressure Counters on Bellamy.
+2+: Piercing damage.
+3+: Ignores invulnerability.
+Strategic/Instant/Unique*Devil fruit
+
+D: Spring Evasion
+1 random, 4 cooldown
+Bellamy jumps into the air, this skill makes Bellamy invulnerable for 1 
+turn. If Spring Hopper is active this skill will also give give Bellamy
+10 destrucable defense.
+Strategic/Instant/Unique*DEvil fruit

@@ -1,0 +1,46 @@
+Blackbeard, Marshall D. Teach
+
+A: Kurouzu
+1 devil fruit, 2 cooldown
+Blackbeard deals 10 damage to an opponent and stuns their devil fruit 
+abilities for 1 turn each turn for 2 turns.
+Physical/Melee/Instant/Unique*Devil fruit
+
+B1: Black Hole
+1 devil fruit 1 random, 4 cooldown
+Blackbeard absorbs all DD on all characters, removing it and
+gaining a Black Hole stack for each DD removed. After use
+this skill becomes Black Hole - Release.
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+B2: Liberation
+1 devil fruit, 4 cooldown
+Blackbeard fires all the absorbed DD at an enemy dealing damage
+equal to the amount of Black Hole stacks he has to that enemy.
+Blackbeard then loses all Black Hole stacks and this skill becomes Black
+Hole.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+C1: Devil Fruit Steal
+1 random, no cooldown
+Blackbeard steals the ability of a devil fruit user. 
+Blackbeard targets an enemy, when that enemy dies if they had
+any devil fruit skills, Blackbeard will permanently exchange this 
+ability with a random one of that enemies devil fruit abilities.
+This skill ends on all other enemies when triggered.
+(For example, if this skill was used on Ivankov he will randomly
+copy either "Emporio Ganmen Seicho Hormone", "Emporio Tension 
+Hormone" or "Emporio Onna Hormone" since "DEATH WINK is not a 
+devil fruit ability. This skill will have no effect on characters 
+with no devil fruit powers like Wanze or Usopp)
+Strategic/Instant/Unique*Devil fruit
+
+C2: Copy
+xxxx
+Whatever skill Devil Fruit Steal copied.
+xxxx
+
+D: Extreme Endurance
+1 random, 4 cooldown
+Blackbeard becomes invulnerable for 1 turn.
+Strategic/Instant

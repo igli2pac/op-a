@@ -1,0 +1,26 @@
+Oars
+
+A: I Wanna Be the Pirate King!
+1 random, 4 cooldown
+Oars wants to fulfill his dream, gaining 20 destructable defense and
+ignoring negative effects except damage and energy cost changes for 
+2 turns.
+Strategic/Instant
+
+B: Gomu Gomu (But not really) Gatling
+1 physical 1 haki 1 random, 4 cooldown
+Oars jumps high into the air and rains massive death over his enemies
+dealing 20 damage each turn to all enemies for 3 turns.
+Physical/Melee/Instant
+
+C: Gomu Gomu (But not really) Stamp
+1 physical 1 random, 2 cooldown
+Oars stomps on an enemy, dealing 30 damage and removing all destrucable
+defense from that enemy, that enemy will be invulnerable to friendly
+skills for 3 turns.
+Physical/Melee/Instant
+
+D: The Biggest
+1 random, 4 cooldown
+Oars becomes invulnerable for 1 turn.
+Strategic/Instant

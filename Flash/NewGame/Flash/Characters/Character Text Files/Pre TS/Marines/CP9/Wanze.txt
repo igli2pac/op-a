@@ -1,0 +1,55 @@
+Wanze
+
+A1: Ramen Beam: Offensive
+1 weapon, 3 cooldown
+Wanze fires a compressed beam of ramen at an opponent, dealing
+10 damage each turn for 3 turns.
+Weapon/Ranged/Action
+
+A2: Ramen Beam: Defensive
+1 random, 4 cooldown
+Wanze fires a spread shot of Ramen from his nose, becoming invulnerable
+for 1 turn.
+Strategic/Instant
+
+B1: Fire Skate
+1 physical, no cooldown
+Wanze kicks an opponent with fire-imbued rollerscates dealing 
+10 piercing damage and applying an affliction to that enemy
+dealing 5 damage each turn for 3 turns.
+Weapon/Melee/Instant
+
+B2: Tonkotsu Spank
+1 weapon, no cooldown
+Wanze punches an enemy with his noodles, dealing 20 damage and
+stunning their physical moves for 1 turn. That enemy will
+recieve 10 extra damage from Men Soul Press and Tonkotsu Spank next turn.
+Weapon/Melee/Instant
+
+C1: Hocho Nage
+1 random, 1 cooldown
+Wanze desperatly throws some knives at the enemy team dealing 10 
+damage to them.
+Weapon/Ranged/Instant
+
+C2: Men Soul Press
+1 physical 1 weapon, 1 cooldown
+Wanze bodyslams the enemy team dealing 30 damage and stunning
+their physical skills for 1 turn.
+Weapon/Melee/Instant
+
+D1: Ramen Kempo Ogi: Men's Formal Suit
+1 random, no cooldown
+Wanze forms a battlesuit out of ramen, changing all his skill to 
+their alternatives for 5 turns.
+Strategic/Instant
+
+D2: Ramen Gyoza Set - Clapping
+1 weapon 1 random, 1 cooldown
+Wanze slams the arms of his ramen suit at an opponent. If that
+enemy had Tonkotsu Spank used on him last turn, Wanze will deal
+35 damage to that enemy.
+If that enemy didn't have Tonkotsu Spank used on him/her last 
+turn, Wanze will deal 20 damage and stun that enemies physical
+skills for 1 turn instead. 
+Weapon/Melee/Instant

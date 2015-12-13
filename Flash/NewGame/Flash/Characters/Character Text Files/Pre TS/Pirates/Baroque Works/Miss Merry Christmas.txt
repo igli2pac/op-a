@@ -1,0 +1,34 @@
+Miss Merry Christmas
+
+A: Molehill 4th Avenue
+1 Devil Fruit, 3 cooldown
+Miss Merry Christmas digs a network of holes for her and her allies, 
+reducing damage done to all allies by 10 as well as boosting Mr.4 and her 
+own attacks for 4 turns.
+Strategic/Instant/Unique*Devil fruit
+
+B1: Mogurazuka Highway
+1 random, 2 cooldown
+Miss Merry Christmas grabs on to an opponent and drags them towards her 
+team, making that enemy unable to become invulnerable or reduce damage 
+for 2 turns and changing this move to Mogu Mogu Impact for 1 turn.
+Strategic/Action/Unique*Devil fruit
+
+B2: Mogu Mogu Impact
+1 devil fruit 1 random, no cooldown
+Miss Merry Christmas smashes the opponent affected by Mogurazuka Highway 
+into a wall dealing 35 damage to them.
+Physical/Melee/Instant/Unique*Devil fruit
+
+C: Mogura Banana
+1 physical, no cooldown
+This skill deals 15 damage to an opponent, if Molehill 4th Avenue is 
+active then it deals 20 damage instead and ignores invulnerability.
+Physical/Melee/Instant/Unique*Devil fruit
+
+D: Mogura Tonpo: Mogugyo
+1 random, 4 cooldown
+Miss Merry Christmas dives into a hole becoming invulnerable for 1 turn, 
+if Molehill 4th Avenue is active then this skill will have a cooldown of 
+3 instead.
+Strategic/Instant/Unique*Devil fruit

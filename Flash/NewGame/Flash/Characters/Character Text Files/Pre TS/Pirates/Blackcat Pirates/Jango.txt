@@ -1,0 +1,28 @@
+Jango
+
+A: One, Two, Jango
+2 Haki, 3 cooldown
+Jango uses hypnosis to make everyone in range fall asleep,
+including himself. The next turn, any character that didn't
+use a move during this time will be stunned for 2 turns.
+(To clarify, you get 2 turns to do moves while your opponent
+gets 1 (if stacked correctly))
+Haki/Ranged/Control
+
+B: Chakram Throw
+1 random, no cooldown
+Jango throws one of his pendulums like a chakram, cutting one
+enemy for 15 damage.
+Weapon/Ranged/Instant
+
+C: Power Hypnosis
+1 haki 1 random, 3 cooldown
+Jango hypnotises his allies to make them stronger, their
+non-affliction skills will deal 10 more damage, for 2 turns.
+Strategic/Action
+
+D: Reckless Hypnosis
+1 random, 3 cooldown
+Jango and one enemy becomes invulnerable for 1 turn and that enemy
+will be stunned for 1 turn.
+Strategic/Instant

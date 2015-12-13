@@ -1,0 +1,28 @@
+Unluckies
+
+A: Mr.13; Cutting Shells
+1 physical, 1 cooldown
+Mr.13 draws his shells, one enemy will be dealt 20 damage and for
+2 turns, whenever that enemy beforms a strategic move they will lose 1
+random energy. This skill refreshes.
+Weapon/Melee/Instant
+
+B: Miss Friday; Machine Guns
+1 weapon 1 random, 2 cooldown
+Miss Friday is equipped with machine guns, one enemy will be dealt 15
+damage each turn for 2 turns and during this time, if that enemy uses
+a new nonstrategic skill, they will lose 1 random energy.
+Weapon/Ranged/Action
+
+C: Mr.13; Enemy Drawings
+1 haki 1 random, 4 cooldown
+Mr.13 draws some posters of the enemy team, for 3 turns enemies will be
+unable to become invulnerable, if an enemy uses a new nonstrategic skill
+Unluckies will gain 1 random energy.
+Strategic/Instant
+
+D: Miss Friday; Ill Omen
+1 random, 5 cooldown
+The unluckies fly over the battlefield, becoming invulnerable for 1 turn.
+If both allies are dead this skill will also heal Unluckies 10 health.
+Strategic/Instant

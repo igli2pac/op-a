@@ -1,0 +1,23 @@
+Mr.1 Daz Bones
+
+A: Sparkling Claw
+, no cooldown
+
+Weapon/Melee/Instant/Unique*Devil fruit
+
+B: Atomic Spar
+1 devil fruit, no cooldown
+Daz Bones deals 15 piercing damage to an enemy and 5 piercing
+damage to all other opponents. This damage cannot be reduced.
+Weapon/Melee/Instant/Unique*Devil fruit
+
+C: Spiral Hollow
+, no cooldown
+
+Strategic/Instant/Unique*Devil fruit*Affliction
+
+D: Body of Blades
+1 random, 4 cooldown
+For 2 turns, Daz Bones will ignore all nonaffliction skills used 
+on him unless they deal 40 or more damage.
+Strategic/Instant/Unique*Devil fruit

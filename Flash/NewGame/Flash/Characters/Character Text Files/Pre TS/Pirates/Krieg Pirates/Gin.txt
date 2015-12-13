@@ -1,0 +1,31 @@
+Gin the "Man-Demon"
+
+A: Shield Breaker
+1 physical, no cooldown
+Gin hits an enemy with one of his tonfa, removing all destructable
+defense from that enemy and then dealing 10 damage to them.
+Gin then gains 1 momentum charge, increasing the damage of this
+skill and "Head Pound" by 5.
+Weapon/Melee/Instant
+
+B: Momentum
+1 random, no cooldown
+Gin swings his tonfa gaining 1 momentum charge, "Shield Breaker" 
+and "Head Pound" will deal an additional 5 damage for each
+momentum charge.
+Strategic/Instant
+
+C: Headlock
+1 weapon 1 random, 4 cooldown
+Gin nails an enemy to the ground with his tonfa, Gin uses all his
+momentum charges and stuns that enemy for 1 turn for each momentum
+charge he had. During this time, "Head Pound" can be used on
+that enemy.
+Weapon/Melee/Control
+
+D: Head Pound
+1 weapon 1 random, no cooldown
+Gin smashes an enemy affected by "Headlock" dealing 20 damage
+and becoming invulnerable for 1 turn. Gin will gain 1 momentum 
+charge.
+Weapon/Melee/Instant

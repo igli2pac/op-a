@@ -1,0 +1,25 @@
+Sham
+
+A: Neko Baba
+1 physical, 1 cooldown
+Sham steals an opponents weapons stunning their weapon skills for 
+2 turns. This skill will end of Sham dies or is stunned.
+Physical/Melee/Control
+
+B: Cowardly Approach
+1 random, 2 cooldown
+Sham runs at an opponent while acting like a coward, one enemy
+will be unable to become invulnerable or reduce damage for 2 turns.
+Strategic/Instant
+
+C: Sham's Neko-Yanagi Daikoshin
+1 physical 1 random, 1 cooldown
+Teaming up with Buchi, Sham deals 20 damage to one opponent each 
+turn for 2 turns. If Buchi uses "Neko-Yanagi Daikoshin" during this
+time, this skill will be refreshed.
+Physical/Melee/Action
+
+D: Nekoze
+1 random, 4 cooldown
+Sham becomes invulnerable for 1 turn.
+Strategic/Instant

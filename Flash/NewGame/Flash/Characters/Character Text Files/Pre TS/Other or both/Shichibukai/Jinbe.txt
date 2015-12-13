@@ -1,0 +1,29 @@
+Jinbe
+
+A: Karakusagawara Seiken
+1 physical 1 random, 2 cooldown
+This skill deals 15 damage to each opponent. For 2 turns, all
+opponents will have their random energy costs changed to a
+random specific energy instead.
+Physical/Ranged/Instant
+
+B: Gosenmaigawara Seiken
+1 physical 1 random, 1 cooldown
+Jinbe uppercuts one enemy, this skill deals 25 damage and that
+enemy will have their random energy skill costs changed to a random
+specific energy for 2 turns. This effect refreshes.
+Physical/Melee/Instant
+
+C: Kairyu Ipponzeoi
+1 physical 1 haki, 3 cooldown
+Jinbe throws a giant torrent of water at an enemy. One enemy will
+be dealt 40 damage and have their devil fruit abilities stunned for
+3 turns.
+Weapon/Ranged/Instant
+
+D: Mizugokoro
+1 haki, 4 cooldown
+This skill makes Jinbe invulnerable for 1 turn. For 2 turns, "Kairyu 
+Ipponzeoi" will deal 10 extra damage and Jinbe will be invulnerable to 
+all melee devil fruit abilities.
+Strategic/Instant

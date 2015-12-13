@@ -1,0 +1,32 @@
+Capone "Gang" Bege
+
+A: Eye-Snipers
+1 devil fruit 1 random, no cooldown
+Capone orders his men to snipe an enemy from his eye, one enemy
+will be dealt 25 damage and this skill will have an additional
+effect based on how much total destructable defense Capone has.
+10+: This skill will ignore invulnerability.
+25+: This skill will deal an additional 5 damage.
+40+: This skill will also stun its target for 1 turn.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+B: Fullbody Bombardment
+1 devil fruit 1 random, no cooldown
+Capones men fires a lineup of cannons at the enemy team. Capone
+will deal 10 damage to each opponent and 5 extra damage for each
+10 of total destructable defense he has.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+C: Thrumpet Blast
+2 random, 4 cooldown
+Capone prepares his men for action, for 3 turns, "Eye-Snipers"
+and "Fullbody Bombardment" will cost random energy instead of
+any specific energy. Also Capone will gain 5 more destructable
+defense from all skills during this time.
+Strategic/Instant/Unique*Devil fruit
+
+D: Living Fortress
+1 Random, 2 cooldown
+For 4 turns, Capone will gain 5 destructable defense each turn,
+if this skill is used again while active he will gain 10 DD.
+Strategic/Instant/Unique*Devil fruit

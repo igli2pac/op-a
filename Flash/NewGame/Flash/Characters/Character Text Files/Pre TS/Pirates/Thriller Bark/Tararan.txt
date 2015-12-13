@@ -1,0 +1,32 @@
+Tararan
+
+A: Spider Mice
+1 haki, 3 cooldown
+Tararan commands a small army of zombie spider mice. Tararan targets an 
+enemy, if that enemy doesn't use a new skill next turn they will be 
+stunned for 2 turns. That enemy will also become invulnerable to ally
+skills for the duration of the stun. This skill is invisible until it
+ends or stuns.
+Strategic/Instant
+
+B: Web Net 
+2 random, 5 cooldown
+Tararan catches his enemies in a giant web, one random enemy will be
+stunned for 1 turn and all enemies will have their strategic skills 
+stunned for 3 turns. Any enemy that uses a new nonstrategic skill during
+this time will have their nonaffliction damage reduced by 5 for 4 turns.
+This effect stacks.
+Strategic/Instant/Unique
+
+C: Monkey Suprise
+1 haki 1 random, 3 cooldown
+Tararan appears before his enemies, all enemies will be dealt 10 
+affliction damage each turn permanently until they use a new strategic
+skill.
+Affliction/Melee/Instant*Affliction
+
+D: Suprise Web
+1 random, 4 cooldown
+Tararan stops himself from falling by spinning a web under him, this
+skill makes Tararan invulnerable for 1 turn.
+Strategic/Instant/Unique

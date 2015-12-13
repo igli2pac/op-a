@@ -1,0 +1,28 @@
+Chaka
+
+A: Narikiba
+1 weapon 1 random, 1 cooldown
+Chaka rushes through an enemy and cuts them, one enemy will be dealt 30
+damage and will have their non-strategic skills stunned for 1 turn, 
+and if Chaka wasn't dealt damage last turn, this skill will have no 
+cooldown.
+Weapon/Melee/Instant/Unique*Devil fruit
+
+B: Student Training
+1 haki, 2 cooldown
+Chaka trains an ally, that ally will be dealt 10 affliction* damage and
+their non-affliction skills will deal 5 more damage for 3 turns.
+Strategic/Instant*Affliction
+
+C: Inu Inu no Mi: Model Jackal
+1 devil fruit, 3 cooldown
+Chaka transforms into his full jackal form, for 2 turn, whenever Chaka
+uses "Narikiba" he will regain 10 health. During this time, whenever an
+ally uses a skill that deals 20 or less damage they will also regain 10
+health.
+Strategic/Instant/Unique*Devil fruit
+
+D: Intercepting Block
+1 random, 4 cooldown
+This skill makes Chaka invulnerable for 1 turn.
+Strategic/Instant

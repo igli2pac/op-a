@@ -1,0 +1,28 @@
+Marine Soldiers
+
+A: Ute!
+2 random, no cooldown
+Marine Soldiers fire their rifles dealing 30 damage to target 
+enemy. This skill will deal 5 extra damage if Marine Soldiers have
+full health.
+Weapon/Ranged/Instant
+
+B: Close Quarters Combat
+1 random, 3 cooldown
+Marine soldiers run in to attack dealing 10 damage to each 
+opponent each turn for 3 turns. This skills ends if the Marine 
+Soldiers takes 30 or more damage in one turn.
+Weapon/Melee/Action
+
+C: Ambush
+1 random, 4 cooldown
+Marine Soldiers target one enemy, if that enemy uses a non-strategic
+skill next turn they will be stunned for 2 turns and take 10 extra
+damage from Marine Soldiers skills. This skill is invisible.
+Strategic/Instant
+
+D: Meat Shields
+1 random, 4 cooldown
+All skills used on target ally is redirected to Marine Soldiers 
+for one turn.
+Strategic/Instant

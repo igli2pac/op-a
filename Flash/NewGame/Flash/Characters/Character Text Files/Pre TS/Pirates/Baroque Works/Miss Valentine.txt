@@ -1,0 +1,28 @@
+Miss Valentine
+
+A: Crescendo Stone
+1 devil fruit 1 physical 1 random, 5 cooldown
+Miss Valentine slowly crushes an opponent under her weight
+stunning that enemy and dealing 10 damage to them, and then
+5 additional damage each turn for 4 turns. 
+(Meaning first 10, then 15 then 20 then 25 damage) 
+Miss Valentine cannot beform moves other than Dense Body during this time.
+Physical/Melee/Control/Unique*Devil fruit
+
+B: Hissatsu: 10.000 Kilo Guillotine
+1 devil fruit, 3 cooldown
+Miss Valentine crashes down on an opponent to try and
+snap off their head, this skill will instantly kill
+an opponent that has 30 or less health, ignoring invulnerability.
+Physical/Melee/Instant/Unique*Devil fruit
+
+C: 10.000 Kilo Press
+1 physical, no cooldown
+Miss Valentine land on an opponent from the sky dealing 20 damage to one 
+enemy and making her ignore stuns for 1 turn.
+Physical/Melee/Instant/Unique*Devil fruit
+
+D: Weightless Flight
+1 random, 4 cooldown
+This skill makes Miss Valentine invulnerable for 1 turn.
+Strategic/Instant*Devil fruit

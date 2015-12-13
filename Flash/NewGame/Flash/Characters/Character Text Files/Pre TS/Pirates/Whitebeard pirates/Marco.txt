@@ -1,0 +1,32 @@
+Marco
+
+A: Overhead Kick
+1 physical 1 random, no cooldown
+Marco flies in an kicks an opponent from above, one enemy will be dealt 
+30 damage, and if an enemy died last turn, this skill will also stun that
+enemy for 1 turn.
+Physical/Melee/Instant
+
+B: Interrupting Kick
+1 physical, no cooldown
+Marco stops an opponent with a swift kick. One enemy that is beforming a 
+Action or Control skill will be dealt 25 damage and be stunned for 1 turn.
+Physical/Melee/Instant
+
+C: Phoenix Form 
+1 random, 4 cooldown
+Marco transforms into a blue phoenix, for 3 turns, "Overhead Kick" and
+"Interrupting Kick" will deal 5 additional damage. "Blue Flames of
+Resurrection"'s cooldown will be decreased by 3 during this time.
+Strategic/Instant/Unique*Devil fruit
+
+D: Blue Flames of Resurrection
+1 devil fruit, 4 cooldown
+For 4 turns, whenever Marco receives damage he will recover health based on
+how much damage he received:
+10 or less: 5 health
+15-20: 10 health
+25 or more: 15 health
+Any turn Marco does not receive damage he will recover 5 health.
+These effects stack.
+Strategic/Action/Unique*Devil fruit

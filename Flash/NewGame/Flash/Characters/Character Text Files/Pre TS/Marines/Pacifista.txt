@@ -1,0 +1,28 @@
+Pacifista
+
+A: Palm Beam
+1 weapon, no cooldown.
+The Pacifista fires a beam from its palm dealing 30 damage to the enemy
+with the most health, this is randomized if more enemies are tied for
+the lead.
+Weapon/Ranged/Instant
+
+B: Mouth Beam
+1 Weapon 1 Random, 1 cooldown.
+Next turn, the Pacifista will deal 40 damage to a random enemy that used 
+a new nonstrategic skill.
+Weapon/Ranged/Instant
+
+C: Random Fire
+3 random, no cooldown.
+Can only be activated when below 40 HP.
+The Pacifista shoots randomly in all directions dealing 30 damage* to a 
+random enemy each turn until Pacifista dies. The pacifista will be 
+unaffected by all harmful effect except damage during this time.
+Strategic/Action
+* Weapon/Ranged/Instant
+
+D: Iron Body
+1 Random, 4 cooldown
+This skill makes Pacifista invulnerable for 1 turn.
+Strategic/Instant

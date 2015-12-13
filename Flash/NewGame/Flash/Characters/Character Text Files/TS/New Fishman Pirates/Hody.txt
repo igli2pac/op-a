@@ -1,0 +1,27 @@
+Hody Jones
+
+A: Shark Arrows
+1 weapon, 1 cooldown
+Hody deals 15 damage to one enemy and stuns their physical
+and devil fruit abilities for 1 turn.
+Weapon/Ranged/Instant
+
+B: Shark Slicer
+2 weapon, 2 cooldown
+Hody deals 40 damage to one enemy, for the next 2 turns, 
+if that enemy uses a new non-strategic skill they will be
+stunned for 2 turns.
+Weapon/Melee/Instant
+
+C: Death Grip
+1 physical, 1 cooldown
+Hody stuns one enemy for 2 turns, this skill will end
+if Hody is dealt damage by a new skill or stunned.
+Physical/Melee/Control/Unique
+
+D: Swift Swim
+1 random, 4 cooldown
+Hody becomes invulnerable for 1 turn.
+Strategic/Instant
+
+Steroid buff-lifeloss

@@ -1,0 +1,25 @@
+Kuroobi
+
+A: Hyakumaigawara Seiken
+1 physical, no cooldown
+Kuroobi deals 15 damage to an opponent. If that character is 
+stunned in anyway, this skill will deal an additional 15 damage.
+Physical/Melee/Instant
+
+B: Appakushi Chokka Koro
+2 Physical, 1 cooldown
+Kuroobi plunges an opponent close to the ocean floor, dealing
+40 damage and stunning their devil fruit abilities for 2 turns.
+Physical/Melee/Instant
+
+C: Itomaki Kumite
+1 physical, 1 cooldown
+Kuroobi wraps an opponent underwater with his hair, stunning them
+for 1 turn. The next turn, Appakushi Chokka Koro will deal an additional
+10 damage to that enemy.
+Physical/Melee/Instant
+
+D: Swift Swim
+1 random, 4 cooldown
+Kuroobi becomes invulnerable for 1 turn.
+Strategic/Instant

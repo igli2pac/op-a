@@ -1,0 +1,26 @@
+Chew
+
+A: Mizudeppo
+1 haki, 1 cooldown
+Chew shoot a high pressured water beam at an enemy, dealing
+20 damage and stunning their nonstrategic skills for 1 turn.
+Weapon/Ranged/Instant
+
+B: Mizu Taiho
+1 haki 2 random, 2 cooldown
+Chew shoots a giant exploding ball of water at the enemy team,
+dealing 20 damage to each opponent and stunning their devil
+fruit abilities for 2 turns.
+Weapon/Ranged/Instant
+
+C: Hyappatsu Mizudeppo
+1 haki, 2 cooldown
+Chew fires water from his mouth like a machinegun at one enemy
+dealing 10 damage to one enemy each turn for 2 turns.
+That enemy will have their devil fruit abilities stunned for the duration.
+Weapon/Ranged/Action
+
+D: Sprint
+1 random, 4 cooldown
+Chew becomes invulnerable for 1 turn.
+Strategic/Instant

@@ -1,0 +1,35 @@
+Gedatsu
+
+A1: Ordeal of Swamp
+1 random, no cooldown
+Allows Gedatsu to use his abilites, after it has been used
+this ability is permanently changed to Swamp Cloud Burger,
+also melee skills used by enemies have their cooldown
+increased by 1.
+Strategic/Instant/Unique
+
+A2: Swamp Cloud Burger
+1 weapon, 2 cooldown
+Gedatsu traps an opponent in swamp cloud dealing 10 
+affliction damage to them each turn for 3 turns.
+Weapon/Ranged/Instant/Affliction
+
+B: Jet Punch
+1 Physical 1 weapon, 3 cooldown
+Using the Jet Dial, Gedatsu launches towards an enemy 
+dealing 40 piercing damage to that character, also removes
+any DD that character might have.
+Cannot be countered.
+Physical/Melee/Instant
+
+C: Milky Flight
+1 weapon, 2 cooldown
+Gedatsu flies into the air with his milky dials, making
+his next nonstrategic skill target all enemies.
+Does not stack.
+Strategic/Instant
+
+D: Confusing Presence
+1 random, 4 cooldown
+Makes Gedatsu invulnerable for 1 turn.
+Strategic/Instant

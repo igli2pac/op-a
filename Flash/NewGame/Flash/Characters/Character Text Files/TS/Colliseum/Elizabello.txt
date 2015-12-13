@@ -1,0 +1,26 @@
+Elizabello II
+
+A: Warm up
+no cost, no cooldown
+Elizabello gains 1 warm up charge.
+Strategic/Instant
+
+B: Greater Warm up
+1 haki, no cooldown
+Elizabello gains 2 warm up charges. Elizabello will ignore stuns for
+1 turn.
+Strategic/Instant
+
+C: King Punch
+1 haki 2 physical, no cooldown
+Elizabello deals 100 piercing damage to each opponent, this move can only 
+be used if he has 10 or more warm up charges. Elizabello then loses all 
+charges.
+Physical/Ranged/Instant/Unique
+
+D: Advisors Guard
+1 haki, 4 cooldown
+Elizabello becomes invulnerable for 2 turns. Elizabello cannot use
+"King Punch" during this time.
+Strategic/Instant
+

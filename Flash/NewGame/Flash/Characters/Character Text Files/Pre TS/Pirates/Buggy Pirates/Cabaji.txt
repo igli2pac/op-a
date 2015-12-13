@@ -1,0 +1,29 @@
+Cabaji
+
+A: Kyukugi! Yukemuri Satsujin Jiken
+1 weapon 1 random, no cooldown
+Cabaji creates a cloud of dust, becoming invulnerable to
+melee moves for 1 turn and dealing 30 damage to an enemy.
+Weapon/Melee/Instant
+
+B: Kyokugi! Kamikaze Hyakkoma Gekijo
+1 weapon 1 random, 2 cooldown
+Cabaji litters the ground with exploding tops, dealing
+10 damage to every opponent each turn for 2 turns, and 
+dealing 5 damage to any opponent who beforms a melee
+attack.
+Weapon/Ranged/Instant
+
+C: Dirty Tactics
+1 physical, no cooldown
+Cabaji deals 0 damage to an enemy, that enemy will take
+an additional 5 damage for every 10 health they are 
+missing. Also, if that enemy took more than 20 damage from
+this skill they will have an affliction applied to them
+increasing damage taken from non-afflictions by 5 for 5 turns.
+Physical/Melee/Instant*Affliction
+
+D: Kyukugi! Yama Noboro
+1 random, 4 cooldown
+Cabaji becomes invulnerable for 1 turn.
+Strategic/Instant

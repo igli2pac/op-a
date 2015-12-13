@@ -1,0 +1,28 @@
+Alvida
+
+A: Multi Smash
+1 weapon 1 random, no cooldown
+Alvida wacks two opponents over their head with her spiked club.
+One target enemy and another random enemy will be dealt 25 damage
+that ignores invulnerability.
+Weapon/Melee/Instant
+
+B: Overhead Smash
+1 weapon 1 random, 1 cooldown
+Alvida smashes one enemy over the head with her club, one enemy
+will be dealt 30 damage and be stunned for 1 turn.
+Weapon/Melee/Instant
+
+C: Anger
+1 random, 4 cooldown
+For 3 turns, whenever Alvida is dealt damage, the damage of 
+"Overhead Smash" and "Multi Smash" will be increased by 10 for 2
+turns.
+This skill will be activated whenever one of Alvida's allies dies and
+does not stack.
+Strategic/Instant
+
+D: Intimidation
+1 random, 4 cooldown
+This skill makes Alvida invulnerable for 1 turn.
+Strategic/Instant

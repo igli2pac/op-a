@@ -1,0 +1,28 @@
+Kalifa
+
+A: Golden Hour
+1 Devil Fruit, 1 cooldown
+Kalifa washes away an enemies strength and abilites while
+also rendering them defenseless, that enemy will lose 1
+random energy and become stunned for 1 turn.
+Devil fruit/melee/Instant/Unique*Devil fruit
+
+B: Shinaru Shigan "Whip"
+1 Physical, no cooldown
+Kalifa uses her own version of Shigan to send an opponent
+flying, dealing 20 damage and making them ignore all
+helpful effects except for skill changes for 1 turn.
+Physical/Melee/Instant
+
+C: Hitsuji Gumo Relax Hour
+1 Devil Fruit 2 random, 4 cooldown
+Sending a great amount of bubbles at her enemies, all 
+enemies lose 1 random energy and are stunned for 1 turn.
+After the stun, damage done by enemies are reduced by 5 
+for 1 turn.
+Strategic/Instant/Unique*Devil fruit
+
+D: Suprising Beauty
+1 random, 4 cooldown
+Kalifa becomes invulnerable for 1 turn.
+Strategic/Instant

@@ -1,0 +1,28 @@
+Smoker
+
+A: White Blow
+1 devil fruit, no cooldown
+Smoker launches his hand for an attack dealing 20 damage to an
+opponent and reducing the cooldown of his skills by 1 for 3 turns.
+This skill stacks
+Physical/Ranged/Instant/Unique*Devil fruit
+
+B: White Out
+1 physical 1 devil fruit, 5 cooldown
+Smoker traps his enemies in a cloud of dense smoke, enemies will
+have their nonranged skills stunned for 2 turns or until Smoker
+becomes stunned or dies.
+Physical/Ranged/Control/Unique*Devil fruit
+
+C: White Launcher
+1 devil fruit 1 random, 3 cooldown
+Smoker pins an opponent to the ground with his jitte, dealing 30
+damage and stunning their devil fruit abilities for 2 turn. That
+enemy will have their nonaffliction damage reduced by 5 permanently.
+Weapon/Melee/Instant/Unique*Devil Fruit
+
+D: Smoke Body
+1 random, 3 cooldown
+Smokers devil fruit allows him to become intangible, Smoker will
+become invulnerable to all harmful skills except Haki skills for 1 turn.
+Strategic/Instant/Unique*Devil fruit

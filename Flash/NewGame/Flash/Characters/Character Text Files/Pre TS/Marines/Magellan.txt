@@ -1,0 +1,33 @@
+Magellan
+
+A: Poison Coating
+1 devil fruit, no cooldown
+Grants Magellan a permanent buff, applying an affliction to any enemy that
+beforms a physical or melee move on Magellan, dealing 10 affliction 
+damage each turn to them for 3 turns. Magellan also gains 10 damage 
+reduction from physical and weapon attacks and becomes unaffected by 
+afflictions. This affliction stacks.
+After this skill has been used the first time, it can be used again to
+restore 25 health on Magellan and stun him for 1 turn.
+Strategic/Instant/Unique *Affliction*Devil fruit
+
+B: Hydra
+1 devil fruit, 1 cooldown
+Affects one enemy with an affliction dealing 10 affliction damage each 
+turn for 3 turns. If that enemy is already affected by an affliction they 
+take 10 damage instantly (In addition to the regular affliction).
+This affliction stacks.
+Devil fruit/Ranged/Instant/Unique *Affliction*Devil fruit
+
+C: Venom Demon: Jigoku no Shinpan
+1 devil fruit 2 random, 5 cooldown
+For 2 turns, all affliction damage dealt to all enemies is increased by 
+10, also, any enemy that beforms a melee or physical move on Magellan is 
+applied an affliction dealing 20 damage each turn for 2 turns. 
+This affliction stacks.
+Strategic/Instant/Unique *Affliction*Devil fruit
+
+D: Chloro Ball
+1 random, 3 cooldown
+Stuns one enemy's strategic skills for 2 turns.
+Strategic/Instant/Unique*Devil fruit

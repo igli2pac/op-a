@@ -1,0 +1,31 @@
+Diamond Jozu
+
+A: Cabochon Knuckle
+1 random, no cooldown
+Jozu punches an enemy with a diamond encrusted fist, that enemy will be 
+dealt 15 damage and Jozu will gain 10 damage reduction for 1 turn.
+Jozu will gain one "Dispersion Impact" counter.
+Physical/Melee/Instant/Unique*Devil fruit
+
+B: Brilliant Punk
+1 devil fruit, no cooldown
+Jozu charges an opponent. One enemy will be dealt 20 damage that ignores 
+invulnerability. If this skill was used by "Radiant Jozu" it will deal 25 
+damage instead. 
+Jozu will gain one "Dispersion Impact" counter.
+Physical/Melee/Instant/Unique*Devil fruit
+
+C: Dispersion Impact
+1 devil fruit 1 random, no cooldown
+Jozu throws a giant block of ice at his opponents, all enemies will be dealt
+10 damage and for every "Dispersion Impact" counter Jozu have he will gain
+5 permanent damage reduction. Jozu will then lose all "Dispersion Impact"
+counters. This damage reduction ends if Jozu is fully stunned.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+D: Radiant Jozu
+1 random, 4 cooldown
+Jozu's devil fruit allows him to partially cover his body in diamonds, for
+1 turn, Jozu will gain 100 damage reduction and and enemy that uses a 
+nonstrategic skill on Jozu will have "Briliant Punk" used on them.
+Strategic/Instant/Unique*Devil fruit

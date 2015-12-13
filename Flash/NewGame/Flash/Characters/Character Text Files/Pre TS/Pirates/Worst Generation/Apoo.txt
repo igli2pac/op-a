@@ -1,0 +1,61 @@
+Scratchmen Apoo
+
+A and B starts out as Scratch and Don respectively.
+
+A: Tatakau Music
+1 devil fruit, 3 cooldown
+Apoo uses his devil fruit and his limps like musical instruments,
+for 5 turns, his two other skills will randomly switch between "Scratch",
+"Don", "Shan", "Boing", "Piano" and "Sax".
+This skill renews.
+Strategic/Action/Unique*Affliction*Devil Fruit
+
+A,B: Scratch
+1 devil fruit, no cooldown
+Apoo tunes into an opponent and cuts off their limps, one enemy will be
+dealt 25 piercing damage that ignores invulnerability.
+Can only be used during "Tatakau Music".
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+A,B: Don
+1 devil fruit, no cooldown
+Apoo causes an enemy to explode, that enemy will be dealt 20 damage and
+will not be able to reduce damage or regain health for 2 turns.
+This skill refreshes if used on the same enemy again.
+Can only be used during "Tatakau Music".
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+A,B: Shan
+1 devil fruit, no cooldown
+Apoo uses his head like a cymbal, one enemy will take 10 extra damage from
+Apoo's skills for 2 turn and if they use a new skill during this time
+they will be dealt 15 affliction damage.
+Can only be used during "Tatakau Music".
+Devil fruit/Ranged/Instant/Unique*Affliciton*Devil fruit
+
+A,B: Boing
+1 random, no cooldown
+Apoo uses his chest like bongodrums, for 1 turn, all of Apoo's skills will
+target all enemies.
+Can only be used during "Tatakau Music".
+Strategic/Instant/Unique*Devil fruit
+
+A,B: Piano
+1 devil fruit, no cooldownn
+Apoo uses his teeth like a keyboard, one enemy will lose 1 random energy
+and be dealt 5 affliction* damage.
+Can only be used during "Tatakau Music".
+Devil fruit/Ranged/Instant/Unique*Affliction*Devil fruit
+
+A,B: Sax
+1 devil fruit, no cooldown
+Apoo uses his arm like a saxophone, one enemy will be stunned for 1 turn,
+and if they had any other of Apoo's skills used on them last turn they
+will be dealt 10 damage.
+Can only be used during "Tatakau Music".
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+D: Great Agility
+1 random, 4 cooldown
+Apoo becomes invulnerable for 1 turn.
+Strategic/Instant

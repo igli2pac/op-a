@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chars>
+	<character name="sanji">
+		<skill1 type="attack" damage="30" skill="unique" attacktype="piercing" turns="1"></skill1>
+		<skill2></skill2>
+		<skill3></skill3>
+		<skill4></skill4>
+	</character>
+		<character name="luffy">
+		<skill1>
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>30</damage>
+			<description>ROFL ROFL</description>
+			<name>Gomu Gomu no Pistol</name>
+			<turns>1</turns>
+			<target>1</target>
+			<increase></increase>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill>unique</skill>
+			<class1>ranged</class1>
+			<class2>instant</class2>
+			<invulnerable></invulnerable>
+		</skill1>
+		<skill2 type="attack" damage="20" target="1" invulnerable="1"></skill2>
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>20</damage>
+			<description>1</description>
+			<name>Gomu Gomu no Pistol</name>
+			<turns>1</turns>
+			<target>1</target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<increase></increase>
+			<skill></skill>
+			<class1>meele</class1>
+			<class2>instant</class2>
+			<invulnerable>1</invulnerable>
+		<skill3 type="attack" GGNG="1" damage="15">
+			<type>attack</type>
+			<attacktype></attacktype>
+			<damage>20</damage>
+			<description>1</description>
+			<name>Gomu Gomu no Gatling</name>
+			<turns>1</turns>
+			<target>3</target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<increase></increase>
+			<skill></skill>
+			<class1>ranged</class1>
+			<class2>action</class2>
+			<invulnerable></invulnerable>
+		</skill3>
+		<skill4 type="invulnerable" invulnerable="1">
+			<class1>fruit</class1>
+			<class2>instant</class2>
+			<invulnerable></invulnerable>
+		</skill4>
+	</character>
+		<character name="readytocopy">
+		<skill1>
+			<type></type>
+			<attacktype></attacktype>
+			<damage></damage>
+			<description></description>
+			<name></name>
+			<turns></turns>
+			<target></target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill></skill>
+			<class1></class1>
+			<class2></class2>
+			<invulnerable></invulnerable>
+		</skill1>
+		<skill2>
+			<type></type>
+			<attacktype></attacktype>
+			<damage></damage>
+			<description></description>
+			<name></name>
+			<turns></turns>
+			<target></target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill></skill>
+			<class1></class1>
+			<class2></class2>
+			<invulnerable></invulnerable>
+		</skill2>
+		<skill3>
+			<type></type>
+			<attacktype></attacktype>
+			<damage></damage>
+			<description></description>
+			<name></name>
+			<turns></turns>
+			<target></target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill></skill>
+			<class1></class1>
+			<class2></class2>
+			<invulnerable></invulnerable>
+		</skill3>
+		<skill4>
+			<type></type>
+			<attacktype></attacktype>
+			<damage></damage>
+			<description></description>
+			<name></name>
+			<turns></turns>
+			<target></target>
+			<enreducedmgvuln></enreducedmgvuln>
+			<skill></skill>
+			<class1></class1>
+			<class2></class2>
+			<invulnerable></invulnerable>
+		</skill4>
+	</character>
+
+</chars> 

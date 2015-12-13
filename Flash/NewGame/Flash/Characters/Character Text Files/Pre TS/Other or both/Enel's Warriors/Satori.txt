@@ -1,0 +1,34 @@
+Satori
+
+A1: Ordeal of Balls
+1 random, no cooldown.
+Allows Satori to use his other abilities, after it has been used
+this ability is permanently changed to Bikkuritama Tsuki.
+Also, Satori permanently gains 10 damage reduction.
+Strategic/Instant/Unique
+
+A2: Bikkuritama Tsuki
+1 weapon, no cooldown.
+Satori kicks a ball at an enemy dealing 20 damage to one
+enemy and reducing their nonaffliction damage by 10 for one turn.
+Weapon/Ranged/Instant
+
+B: Impact Dial
+1 haki, 3 cooldown.
+Satori releases the stored attacks trough his Impact Dial
+dealing damage equal to his lost health to one enemy. This skill
+ignores invulnerability from devil fruit moves.
+Weapon/Melee/Instant
+
+C: Tama Dragon
+1 Weapon 1 willpower 1 physical, 6 cooldown
+Satori creates a dragon out of suprise balls. For 3 turns 
+the first enemy to deal damage to Satori will be dealt 80 
+damage*. This damage cannot be reduced or reflected.
+*Weapon/Ranged/Instant
+Strategic/Action
+
+D: Mantra
+1 Random, 4 cooldown
+Satori becomes invulnerable for 1 turn.
+Strategic/Instant

@@ -1,0 +1,32 @@
+Perona
+
+A: Negative Hollow
+1 Random, no cooldown
+Perona summons a negative ghost to pass through an enemy, reducing that 
+enemies damage by 10 for 1 turn.
+Strategic/Instant/Unique*Devil fruit
+
+B1: Mini Hollow
+1 Devil Fruit, no cooldown
+Perona sends a small hollow to an enemy. After two activations this skill
+is changed to Toku Hollow.
+Strategic/Instant/Unique*Devil fruit
+
+B2: Toku Hollow
+2 Devil Fruit, no cooldown
+Perona attaches a bigger hollow to an enemy, Toku Hollow
+becomes Mini Hollow after activation.
+Strategic/Instant/Unique*Devil fruit
+
+C: Ghost Rap
+1 Random, no cooldown.
+For each Mini Hollow connected to enemies, Perona deals
+25 damage to the enemy, for each Toku Hollow attached to
+that enemy she deals 50 damage. All Hollows are
+removed from all enemies afterwards.
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+D: Hollow Body
+1 Random, 4 cooldown
+Perona becomes invulnerable for 1 turn.
+Strategic/Instant/Unique*Devil fruit

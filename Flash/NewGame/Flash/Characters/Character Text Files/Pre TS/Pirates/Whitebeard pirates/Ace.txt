@@ -1,0 +1,29 @@
+Ace
+
+A: Hiken
+1 devil fruit 1 random, 1 cooldown
+Ace fires a great column of fire at his enemies, all opponents will be 
+dealt 15 affliction damage, and those opponents will not be able to reduce
+damage or become invulnerable for 1 turn.
+Affliction/Ranged/Instant/Unique*Devil fruit*Affliction
+
+B: Higan
+1 devil fruit, 2 cooldown
+Ace shoots at one enemy with his hands, one enemy will be dealt 10 damage
+each turn for 2 turns and during this time, if that enemy isn't healed
+or beforms a non-strategic skill, they will be applied an affliction*
+dealing 5 affliction damage to them each turn permanently. 
+Devil fruit/Ranged/Action/Unique*Devil fruit*Affliction
+
+C: Dai Enkai: Entei
+1 devil fruit 1 haki 1 random, 3 cooldown
+Ace's ultimate attack, Ace will deal 35 affliction damage to each enemy,
+this affliction damage is reduced by 10 if Ace recieved damage last turn.
+This skill cannot be countered or reflected.
+Affliction/Ranged/Instant/Unique*Devil fruit*Affliction
+
+D: Kyokaen
+1 random, 5 cooldown
+Ace's body of flames allow him to make a wall of fire, for 2 turns, Ace will
+become invulnerable to ranged and and non-devil fruit skills.
+Strategic/Instant/Unique*Devil fruit 

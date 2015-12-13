@@ -1,0 +1,27 @@
+Hina
+
+A: Black Handcuffs
+1 random, 2 cooldown
+Hina passes her arm trough an enemy, detaining them. Hina will stun
+one enemy for 1 turn. 
+Physical/Melee/Instant/Unique*Devil fruit
+
+B: Awase Baori
+1 devil fruit 1 random, 2 cooldown
+Hina slams a ranged arrangement of nets at the enemy team, all enemies
+will be dealt 30 damage and any enemy hit will have their non-strategic
+skills stunned for 1 turn.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+C: Unwanted Charm
+2 random, 4 cooldown
+With her beatiful looks, enemies will be less likely to attack her.
+Hina gains 10 damage reduction and any time they target her she will
+have a 50% chance to counter that move. This skill lasts 2 turns.
+(This includes moves that target all enemies)
+Strategic/Instant
+
+D: Something
+1 random, 4 cooldown
+This skill makes Hina invulnerable for 1 turn.
+Strategic/Instant

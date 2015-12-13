@@ -1,0 +1,29 @@
+Caesar Clown
+
+A: Gastanet
+1 weapon 1 devil fruit, no cooldown.
+Caeser always carries some castanets with him, allowing him
+to light the gases he can produce. Ceaser deals 40 damage
+to an enemy. This move cannot be used on an enemy affected
+by Karakuni.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+B: Blue Sword
+1 devil fruit 1 random, 3 cooldown
+Caeser creates a lightsaber out of superheated gas and
+attacks an opponent, that enemy will be dealt 15 damage
+each turn for 3 turns. During this time, if that enemy 
+uses a non-strategic move, they will be dealt 10 damage.
+Devil Fruit/Melee/Action/Unique*Devil fruit
+
+C: Karakuni
+1 devil fruit, 5 cooldown
+Caeser removes the air around him. For 4 turns, whenever an enemy uses a 
+melee move on Caeser, they will be dealt 15 affliction damage and be 
+stunned for 1 turn.
+Strategic/Instant/Unique*Affliction*Devil fruit
+
+D: Gas Form
+1 random, 4 cooldown
+Caeser Clown becomes invulnerable for 1 turn.
+Strategic/Instant/Unique*Devil fruit

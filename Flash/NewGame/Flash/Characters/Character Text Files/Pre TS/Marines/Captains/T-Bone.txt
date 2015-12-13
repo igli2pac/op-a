@@ -1,0 +1,28 @@
+T-Bone
+
+A: Chokkaku Senko: Bone Soir
+1 weapon, no cooldown
+T-Bone makes a rectangular cut in the air, removing all DD
+from all enemies and dealing 15 damage to them.
+Weapon/Ranged/Instant
+
+B: Chokkaku Hicho: Bone Odori
+2 weapon, 3 cooldown
+T-Bone unleases a thundering wave of vengeance from his sword
+dealing damage equal to 5 times the amount of 10's his allies are 
+missing to one enemy.
+(So if one ally is at 50 health and the other at 70, this move will
+deal (5 + 3) * 5 = 40 damage, and if both allies are dead it will 
+deal 100 damage)
+Weapon/Ranged/Instant/Unique
+
+C: Willing Sacrifice
+1 random, no cooldown
+T-Bone sacrifices himself for his allies, dealing 5 
+affliction damage to himself and healing an ally 20 health.
+Strategic/Instant*Affliction
+
+D: Justice Must Not Rest!
+1 random, 4 cooldown
+This skill makes T-Bone invulnerable for 1 turn.
+Strategic/Instant

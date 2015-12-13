@@ -1,0 +1,30 @@
+Jean Ango
+
+A: Weapon Pick-Up
+no cost, no cooldown
+Jean starts scavenging for weapons gaining one weapon stack.
+Strategic/Instant
+
+B: Hissatsu: Gihaio Ho
+1 random, no cooldown
+Jean Ango quickly throws a couple of his weapons at an enemy to 
+fend them off. One enemy will be dealt 20 damage and Jean Ango
+will lose 1 weapon stack. This skill cannot be used if Jean Ango
+has no weapon stack.
+Weapon/Ranged/Instant
+
+C: Gihaio
+2 random, 1 cooldown
+Jean starts throwing all his collected weapons at the enemy team,
+all enemies are dealt 10 damage each turn for 2 turns, this
+skills duration is extended by 1 turn for each weapon stack Jean
+Ango has.
+This skill can be used while in use and will stack, Jean Ango will
+lose 1 weapon stack each turn after the first 2 turns for each 
+Gihaio active and it will end if Jean Ango runs out of stacks.
+Weapon/Ranged/Action
+
+D: Quick Realization
+1 random, 4 cooldown
+This skill makes Jean Ango invulnerable for 1 turn.
+Strategic/Instant

@@ -1,0 +1,29 @@
+Bepo
+
+A: Kung-Fu Kick
+1 physical, no cooldown
+Bepo kicks an opponent, dealing 10 damage to that enemy and for every 10
+damage Bepo dealt to them this turn, he will gain 5 damage reduction for
+2 turns that stacks.
+Physical/Melee/Instant 
+
+B: Beary High Kick Storm
+1 physical 1 random, 3 cooldown
+Bepo kicks all of his opponents, each turn for 2 turn, each opponent will
+be dealt 10 damage and during this time, if an ally uses a new physical
+skill on an enemy, Bepo will also use "Kung-Fu Kick" on that enemy.
+This skill stacks. 
+Physical/Melee/Action
+
+C: Kung-Fu Stance
+2 random, no cooldown
+Bepo assumes a combat stance. For 2 turns, whenever "Kung-Fu Kick" is 
+used on an enemy "Beary High Kick Storm" well also be activated and if
+"Beary High Kick Storm" is used "Kung-Fu Kick" will also be activated on
+a random enemy. This skill refreshes.
+Strategic/Instant
+
+D: Self Guilt
+1 random, 4 cooldown
+This skill makes Bepo invulnerable for 1 turn.
+Strategic/Instant

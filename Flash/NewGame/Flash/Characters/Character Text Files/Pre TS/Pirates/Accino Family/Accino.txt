@@ -1,0 +1,29 @@
+Accino
+
+A: Atsuyaki Tamago
+1 Devil Fruit, 2 cooldown
+Accino deals 10 affliction damage to an opponent each turn for
+2 turns. This skill lasts an extra turn for each dead ally.
+Devil Fruit/Ranged/Action/Unique*Affliction*Devil fruit
+
+B: Net Tire
+1 devil fruit, no cooldown
+Accino deals 15 damage to an opponent. If that enemy received
+affliction damage this turn, Accino will gain 1 random energy.
+Physical/Melee/Action/Unique*Devil fruit
+
+C: Netsuryo Up
+2 random, 2 cooldown
+Accino heats up, increasing the damage of "Atsuyaki Tamago" 
+by 5 affliction damage.
+This effect stacks.
+After the third activation of this skill, Accino will ignore stuns
+and gain 20 damage reduction permanently.
+Strategic/Instant*Unique*Devil fruit
+
+D: Atsutto Odoroku Hana Jet
+1 random, 4 cooldown
+For 1 turn, Accino will ignore all skills used on him and deal 5
+affliction damage to each opponent who used a new skill on him.
+This skill is invisible.
+Strategic/Instant/Unique*Devil fruit

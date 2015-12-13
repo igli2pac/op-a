@@ -1,0 +1,31 @@
+Hatchan
+
+A: Takoashi Kiken
+1 weapon 1 random, 3 cooldown
+Hatchan charges at an enemy while swinging his 6 swords, for the
+next 3 turns Hachan will deal 15 damage to that enemy each turn.
+If that enemy is affected by "Shikai Zero: Takohaci Black", 
+this skill will deal 10 extra damage.
+Weapon/Melee/Action
+
+B: Takotsubo no Kamae
+1 weapon, 3 cooldown
+Hatchan assumes a defensive position with his swords held out,
+the next enemy to use a physical or melee skill on Hatchan will
+be dealt 20 damage* and receive an affliction increasing 
+nonaffliction damage dealt to them by 5 for 3 turns.
+This skill lasts for 2 turns or until triggered.
+Strategic/Control
+Weapon/Melee/Instant*Affliction
+
+C: Shikai Zero: Takohaci Black
+2 random, 4 cooldown
+Hatchan sprays his opponents with black ink, for 2 turns, all
+enemy skills that require a target will be randomized between
+its legal targets.
+Strategic/Instant
+
+D: Takohachi Number Nine
+1 random, 4 cooldown
+Hatchan becomes invulnerable for 1 turn.
+Strategic/Instant

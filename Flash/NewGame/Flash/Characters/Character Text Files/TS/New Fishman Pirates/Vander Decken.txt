@@ -1,0 +1,35 @@
+Vander Decken
+
+A: Mark
+no cost, no cooldown
+Vander Decken marks one enemy making them the target of
+all his skill until Vander Decken or that enemy dies, if
+Mark is used on another enemy the skill will end on the
+first one.
+Physical/Melee/Instant/Unique*Devil fruit
+
+B: Axe Throw
+1 weapon, no cooldown
+Vander Decken throws an axe at the marked enemy dealing 
+25 damage the next turn and applying an affliction 
+increasing non-affliction damage dealt to that enemy by 5
+for 3 turns. 
+Weapon/Ranged/Instant/Unique*Affliction*Devil fruit
+
+C: Mark Power
+1 devil fruit, 1 cooldown
+For 1 turn, Vander Decken will reflect all ranged enemy 
+skills used on him to the marked enemy, this skill is
+invisible to the enemy. If no skills are reflected that
+enemy will instead be dealt 10 ranged weapon damage.
+Strategic/Instant/Unique*Devil fruit
+
+D: Noah Throw
+2 devil fruit 2 random, 5 cooldown
+Vander Decken throws the giant ancient ship Noah at the enemy 
+team. When 3 turns have passed, all enemies will be dealt
+100 damage and be stunned for 3 turns.
+This skill ignores invulnerability.
+This skill will end if Vander Decken's devil fruit abilities are
+stunned or he dies.
+Weapon/Ranged/Control/Unique*Devil fruit

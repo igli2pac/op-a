@@ -1,0 +1,25 @@
+Yama
+
+A: Stomach Mountain
+1 physical, no cooldown
+Yama dives onto an enemy, Yama deals 15 damage to that enemy, 
+if that enemy recieved damage this turn, that enemy will also lose 1 
+random energy.
+Physical/Melee/Instant
+
+B: Kick Mountain
+1 random, no cooldown
+Yama kicks an opponent dealing 10 damage. That enemy will receive
+5 extra damage from nonaffliction move for 1 turn.
+Physical/Melee/Instant
+
+C: Axe Mountain
+1 weapon 1 random, 1 cooldown
+Yama rams an opponent with his axe dials dealing 10 damage each turn for 
+2 turns, next turn that enemy will recieve 20 damage*.
+Weapon/Melee/Instant*Action
+
+D: Flying Kick
+1 random, 4 cooldown
+This skill makes Yama invulnerable for 1 turn.
+Strategic/Instant

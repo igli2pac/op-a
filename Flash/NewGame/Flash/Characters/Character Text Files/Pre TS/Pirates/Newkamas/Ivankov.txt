@@ -1,0 +1,35 @@
+Emperio Ivankov
+
+A1: DEATH WINK
+1 physical 1 random, 1 cooldown
+Ivankov deals 25 damage to target opponent, that opponent will
+have their nonstrategic moves stunned for 1 turn. 
+Weapon/Ranged/Instant
+
+A2: HELL WINK
+1 physical 1 random, 1 cooldown
+Ivankov deals 25 damage to all opponents and stuns their
+nonstrategic moves for 1 turn.
+Weapon/Ranged/Instant/Unique
+
+B: Emporio Ganmen Seicho Hormone
+1 devil fruit 1 random, 5 cooldown
+DEATH WINK will be changed to HELL WINK for 3 turns and Ivankov
+will ignore all harmful effects except for damage for the duration.
+Strategic/Instant/Unique*Devil fruit
+
+C: Emporio Tension Hormone
+1 Devil fruit, 4 cooldown
+Target ally has the cooldowns of newly used skills decreased by 2 
+for 3 turns and will be unaffected by stuns. After these 3 turns, 
+that ally will be stunned for 2 turns.
+Devil fruit/Instant/Unique*Devil fruit
+
+D: Emporio Onna Hormone
+1 devil fruit, 4 cooldown
+Can be used on either Ivankov or an enemy.
+If this is used on Ivankov, he will become invulnerable for 1 
+turn and gain 1 random energy.
+If this is used on an enemy they will have their nonaffliction
+damage reduced by 20 until Ivankov is stunned or dies.
+Devil fruit/Melee/Control/Unique*Devil fruit

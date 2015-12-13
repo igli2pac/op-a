@@ -1,0 +1,16 @@
+Queen Otohime
+
+A: Royal Slaps
+1 physical 1 random, 1 cooldown
+Otohime slaps an opponent with her frail hands dealing 10 damage
+to that enemy and 5 affliction* damage to herself each turn until this
+skill is used again. The damages of this skill doubles every turn.
+Physical/Melee/Control*Affliction
+
+B: Petition
+2 random, 4 cooldown
+For 2 turns, whenever an ally uses a strategic skill, they will gain 1
+random energy.
+Strategic/Action
+
+C: 

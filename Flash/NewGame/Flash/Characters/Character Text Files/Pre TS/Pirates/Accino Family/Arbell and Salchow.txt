@@ -1,0 +1,26 @@
+Arbell and Salchow
+
+A: Jump and Kick
+1 Physical, no cooldown
+This skill deals 15 damage to an enemy, if Arbell and Salchow has above
+60 health this skill will also stun that opponent.
+Physical/Melee/Instant
+
+B: Love Throw
+1 Physical 1 random, 1 cooldown
+Salchow throws Arbell at an enemy dealing 20 damage and
+5 extra for each 10 health that enemy is missing.
+Physical/Melee/Instant
+
+C: High Jump Dai Kaiten: Ultra Love Throw
+1 Physical 1 weapon, 4 cooldown
+Salchow and Arbell starts spinning at a high speed, becoming
+a giant wheel, Arbell and Salchow deals 15 damage to each
+opponent each turn for 3 turns, during this time, if any
+enemy uses a melee skill on them, they will take 10 damage.
+Physical/Melee/Action
+
+D: Kiss Break
+1 random, 4 cooldown
+Arbell and Salchow becomes invulnerable for 1 turn.
+Strategic/Instant

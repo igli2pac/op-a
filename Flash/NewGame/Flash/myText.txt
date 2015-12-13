@@ -1,0 +1,5 @@
+<p class='header'>Republic of Code</p> 
+
+<p>Republic of Code is the ultimate source for everything Flash and ActionScript. Check it out for the best AS3 tutorials on the internet.</p>
+
+<p class='footer'>Click <a href='http://www.republicofcode.com' target='_blank'>here</a> for more info.</p>

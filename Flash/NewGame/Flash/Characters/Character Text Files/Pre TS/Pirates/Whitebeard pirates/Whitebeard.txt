@@ -1,0 +1,25 @@
+Whitebeard
+
+A: Kaishin
+1 devil fruit 1 willpower, 1 cooldown
+Whitebeard cracks the air around him, dealing 25 damage
+to all enemies and making himself and his allies invulnerable to 
+ranged attacks for 2 turns.
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+B: Kabutowari Shockwave
+1 devil fruit 1 physical, 1 cooldown
+Whitebeard deals 40 damage to one enemy and stuns that enemy for 1 turn.
+Devil fruit/Melee/Instant/Unique*Devil fruit
+
+C: Shima Yurashi
+2 devil fruit 1 willpower, 4 cooldown
+Whitebeard deals 40 damage to all enemies and stuns them
+for 1 turn. As well as stunning his teammates for 1 turn.
+Devil fruit/Ranged/Instant/Unique*Devil fruit
+
+D: Kabutowari 
+1 physical 1 willpower, 1 cooldown
+Whitebeard deals 20 damage to one enemy, that enemy will
+be stunned for 2 turns and will have all DD removed.
+Devil fruit/Ranged/Instant/Unique*Devil fruit

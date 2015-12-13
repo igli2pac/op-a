@@ -1,0 +1,25 @@
+Capote
+
+A: Kaimen Wari
+1 physical, 1 cooldown
+Capote splits the waves, Capote will deal 20 damage to one opponent and
+become invulnerable for 1 turn.
+Weapon/Ranged/Instant
+
+B: Two Fish Engine
+1 physical 1 random, 4 cooldown
+Capote combines with his fish buddy Monda to become a fearful engine,
+Capote will gain 20 destructable defense and "Kaimen Wari" will 
+deal an additional 10 damage. Capote will deal 5 damage to each opponent
+each turn. This skill will last 3 turns and stacks.
+Physical/Melee/Action/Unique
+
+C: Setting Up the Speed
+1 random, 4 cooldown
+For 3 turns, "Kaimen Wari" and "Two Fish Engine" will have no cooldown.
+Strategic/Instant
+
+D: Victory Celebration
+1 random, 4 cooldown
+This skill makes Capote invulnerable for 1 turn.
+Strategic/Instant

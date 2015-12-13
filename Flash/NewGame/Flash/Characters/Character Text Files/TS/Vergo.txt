@@ -1,0 +1,32 @@
+Vergo
+
+A: Busoshoku Haki Mastery
+1 physical 1 haki, 3 cooldown
+Vergo's haki is strong enough to make his body more solid than metal 
+allowing him to attack and defend with relative ease, for 3 turns
+one enemy will be dealt 25 damage each turn and Vergo will gain 15 damage
+reduction. This skill will ignore all bonuses gained from devil fruit
+abilities except destructable defense.
+Physical/Melee/Action*Haki
+
+B: Full Bosushoku Haki Body
+1 haki, 4 cooldown
+When Vergo is mad he solidifies his entire body with bosushoku haki, for
+3 turns, Vergo will deal an additional 5 damage and any enemy uses a new
+harmful skill on Vergo will be dealt 10 damage*.
+This skill can only be used while Vergo has 60 or less health.
+Strategic/Instant
+Physical/Melee/Instant*Haki
+
+C: Interupting Punch
+1 haki, 1 cooldown
+Vergo can move with an incredible speed thanks to Soru, Vergo will deal
+15 damage to one enemy and stun their Action and Control skills for 1 
+turn. This skill ignores all bonuses gained from devil fruit abilities
+except destructable defense.
+Physical/Melee/Instant*Haki
+
+D: Block
+1 random, 4 cooldown
+This skill makes Vergo invulnerable for 1 turn.
+Strtegic/Instant

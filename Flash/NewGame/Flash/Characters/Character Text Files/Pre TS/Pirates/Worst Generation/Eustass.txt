@@ -1,0 +1,29 @@
+Eustass Kid
+
+A: Attract
+2 random, 4 cooldown
+Eustass attracts all nearby metal objects, gaining 5 DD each turn
+for each enemy as well as reducing the weapon damage of enemies by
+5 for the duration. This skill lasts 4 turns.
+Devil fruit/Action/Unique*Devil fruit
+
+B: Repel
+1 devil fruit, 3 cooldown
+Eustass will reflect the next ranged move used on him back at it's
+controller, this skill lasts for 2 turns or until triggered.
+This skill is invisible.
+Strategic/Instant/Unique*Devil fruit
+
+C: Scrap Gun
+1 devil fruit, no cooldown
+Eustass fires a small projectile at an enemy dealing 15 damage
+to them. If Eustass has any DD, this skill will deal an additional
+15 damage.
+Weapon/Ranged/Instant/Unique*Devil fruit
+
+D: Giant Repel
+1 devil fruit 1 random, no cooldown
+Eustass fires off all of his gathered metal, Eustass will lose
+all destructable defense and deal damage to each enemy equal
+to the amount lost this way.
+Weapon/Ranged/Instant/Unique*Devil fruit

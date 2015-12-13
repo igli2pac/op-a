@@ -1,0 +1,28 @@
+Jabra
+
+A: Jusshigan
+1 Devil fruit, no cooldown
+Using his ten claws to beform a Shigan on one enemy Jabra
+deals 20 damage and increases the cost of that enemies skills by 
+one random for 2 turns, this effect stacks.
+Physical/Melee/Instant
+
+B: Rankyaku "Lupus Fall"
+1 Weapon 1 Devil Fruit, 2 cooldown
+Jabra fires 4 wolf-shaped Rankyaku blades against an enemy
+dealing 40 damage to that enemy and increasing the cost 
+of their skills by 2 random for 2 turns.
+Weapon/Ranged/Instant
+
+C: Wolf's Lie
+1 willpower, 3 cooldown
+Jabra tells a lie to a opponent to make them let their
+guard down, that enemy will deal 10 less damage for 2
+turns and have the cost of their skills increased by 1 
+Willpower for the duration.
+Strategic/Instant
+
+D: Tekkai
+1 random, 4 cooldown
+Jabra becomes invulnerable for 1 turn.
+Strategic/Instant

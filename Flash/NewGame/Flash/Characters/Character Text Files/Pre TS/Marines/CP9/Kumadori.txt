@@ -1,0 +1,31 @@
+Kumadori
+
+A: Shigan Cue
+1 weapon, no cooldown
+Kumadori deals 15 damage to one enemy, if that enemy is fully
+stunned, it deals 35 damage instead.
+Weapon/Melee/Instant
+
+B1: Kami Shibari
+1 willpower 1 random, 5 cooldown
+Kumadori traps an enemy, stunning them each turn for 3 turns.
+For the next 2 turns this ability will become "Shishi Shigan".
+Weapon/Ranged/Action/Unique
+
+B2: Shishi Shigan
+1 willpower, 2 cooldown
+Kumadori uses his control of his hair to launch multible shigans at one
+opponent. One enemy will recieve 10 damage each turn for 5 turns. This
+skill will end if Kumadori dies or uses "Shoka, Kyushu".
+Weapon/Ranged/Instant/Unique
+
+C: Shoka, Kyushu
+1 random, 3 cooldown
+For 3 turns Kumadori heals himself 15 each turn. Will stop
+if interrupted.
+Strategic/Control
+
+D: Geppo
+1 random, 4 cooldown
+Kumadori becomes invulnerable for 1 turn.
+Strategic/Instant

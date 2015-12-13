@@ -1,0 +1,28 @@
+Bartholomew Kuma
+
+A: Pad Ho
+1 Devil Fruit, no cooldown
+Kuma deals 20 piercing damage to one enemy
+Devil Fruit/Ranged/Instant/Unique*Devil fruit
+
+B: Pain Repel
+1 Devil Fruit 1 Random, 2 cooldown
+Kuma heals one ally 25 health each turn for 2 turns.
+Removes all afflictions from the target. 
+This skill will end of Kuma is stunned or killed.
+If Kuma is stunned during this time, the enemy that stunned him will be
+dealt 25 affliction damage.
+Strategic/Control/Unique*Devil fruit
+
+C: World Trip Pad Launch
+2 Devil Fruit, 3 cooldown
+Kuma approches one target enemy, the next turn that enemy
+will be stunned for 3 turns and become invulnerable to 
+friendly and harmful moves. Can be interrupted.
+Physical/Melee/Control/Unique*Devil fruit
+
+D: Reflecting Pads
+1 Devil Fruit, 4 cooldown
+For 1 turn, Bartholomew Kuma reflects all moves used on 
+him back to their controller. This skill is invisible.
+Strategic/Instant/Unique*Devil fruit
